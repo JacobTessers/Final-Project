@@ -4,7 +4,9 @@
 
 ## Tech Stack
 
-## Processes/Coding Standards
+## Processes Used
+
+## Coding Standards
 
 ## Project Goals
 
