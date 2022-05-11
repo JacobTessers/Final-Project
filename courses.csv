@@ -1,0 +1,259 @@
+id,created_at,updated_at,name,description,physicalAddress,imageURL,shortCode,capacity,sessionCount,isSignUpOpen,startDate,endDate,acceptSignups,webAddress,isOnline,isPublic,categories,signupURL
+1,2020-07-16 21:34:49.396430,2021-07-15 18:35:38.968820,Workings of the Web,"<p>Project Function is proud to bring you this grand opportunity to come learn with us!</p><p>In our inaugural course, Workings of The Web, we'll be building your knowledge from the ground up, practicing Front End Web Development, User Interface (UI) / User Experience (UX) and Backend Web Development. Each lesson is beginner-oriented, yes, but we are more than willing to help you get to a standard where you're confident with (and proud of!) your newly-acquired skills, whether you wish to pursue a career in Tech or not.</p><p>Classes with be held once a week, every Tuesday at Unidays (NG7 1FB), with the course lasting 3 months.</p><p><iframe width=""100%"" height=""500px"" id=""gmap_canvas"" src=""https://maps.google.com/maps?q=Unidays%20Nottingham&amp;t=&amp;z=17&amp;ie=UTF8&amp;iwloc=&amp;output=embed"" frameborder=""0"" scrolling=""no"" marginheight=""0"" marginwidth=""0""></iframe></p><p><br></p><p>Enrol onto this course (by clicking on the button on the top right corner of your screen) to stay notified of any changes made to this course, to access member-only resources and sessions.</p>",NULL,[[REDACTED]],Kvl0SMynsJtD,20,6,0,2019-01-22 03:37:52,2019-03-26 03:31:58,1,NULL,0,1,"Web Dev,Full-stack",NULL
+2,2020-07-16 21:34:50.218066,2021-07-15 18:35:37.204083,Web Dev from Scratch,"<p>Getting a handle on the concepts and jargon surrounding web development and website creation can be a full-time job in and of itself, especially when you are doing it alone. How do you start? Where do you begin? Should you be using Javascript or jQuery?</p><p>We've designed this course to cover the basics of web development; from structuring your web pages using HTML, to styling them using CSS. In addition, you will be introduced to programming fundamentals by having a look at one of the building blocks of web pages; JavaScript. Instead of watching countless videos, and ending up wondering how to translate those videos into code, you will be guided through the process, and applying what you learn through interactive tasks and challenges throughout each session.</p><p>Classes will start on June 10, and be held once a week, every Tuesday at Nottingham Trent University's City Campus for 6 weeks. By the end of the course, you will be comfortable enough to develop a fully functional static website, a todo-list web application, as well as custom JavaScript components.<br></p><p><iframe width=""100%"" height=""500px"" id=""gmap_canvas"" src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d600.8837437410137!2d-1.1535251707510796!3d52.9567899987437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTLCsDU3JzI0LjQiTiAxwrAwOScxMC43Ilc!5e0!3m2!1sen!2suk!4v1553111240584"" frameborder=""0"" scrolling=""no"" marginheight=""0"" marginwidth=""0""></iframe></p><p>Places are limited! So apply now to secure your place&nbsp;</p><p>[SIGN UP CLOSED]</p>",NULL,[[REDACTED]],fJ3LSIfr7ii2,28,6,0,2019-06-10 19:35:45,2019-06-04 19:35:45,1,NULL,0,1,Web Dev,NULL
+3,2020-07-16 21:34:52.530700,2021-07-14 18:00:40.611647,Intro to Web Dev,"<p><span style=""font-size: medium; letter-spacing: 1px;"">Getting a handle on the concepts and jargon surrounding web development and website creation can be a full-time job in and of itself, especially when you are doing it alone. How do you start? Where do you begin? Should you be using Javascript or jQuery?</span></p><p><span style=""font-size: medium; letter-spacing: 1px;"">We've designed this course to cover the basics of web development; from structuring your web pages using HTML, to styling them using CSS. In addition, you will be introduced to programming fundamentals by having a look at one of the building blocks of web pages; JavaScript. Instead of watching countless videos, and ending up wondering how to translate those videos into code, you will be guided through the process, and applying what you learn through interactive tasks and challenges throughout each session.</span><br></p>",NULL,[[REDACTED]],BqAGbp2lEUzi,45,9,0,2019-11-05 12:36:31,2020-02-04 12:36:31,1,NULL,0,1,Web Dev,NULL
+5,2021-01-06 00:18:40.000000,2021-07-14 18:00:57.955134,Intro to Game Dev with Unity,"<p>Hey you! Do you like games? Do you like learning about how they’re made? Maybe you’re
+the type to stay up watching the game awards, or maybe you’re the type of person who
+YouTube has decided to recommend a Game Maker’s Toolkit video for the thirtieth time this
+week. No matter what your interest in games in general, learning a new skill in a fun way has
+always been something us human-folk have been drawn towards.</p>
+
+<p>The layout of this course will have you diving in to one of the most popular and user-friendly
+game-engines on the market: Unity! Having been used to make hit games like Overcooked,
+it’s definitely nothing to sneeze at!</p>
+
+<figure>
+<image src=""/public/core/images/game_dev_image.png"" alt=""Donkey-Kong-like game made in unity""/>
+<figcaption>A basic platformer game, made in Unity</figcaption>
+</figure>
+
+<p>In this course, we’ll be going through how to use the Unity Game Engine itself as well as a
+bit of scripting using C# and Unity’s native libraries.</p>
+
+<p>By the end of this course you will have made a game you can show off to your friends, your
+parents, your colleagues, your dog, and whoever else you want to share your creativity with.</p>",NULL,[[REDACTED]],rrtGJAd2ae1e,25,9,1,2021-03-02 00:00:00,2021-04-27 00:00:00,1,[[REDACTED]],1,1,Game Dev,NULL
+6,2020-07-16 21:34:52.530700,2021-07-15 18:36:20.707914,Front End Fundamentals,"<p><span style=""font-size: medium; letter-spacing: 1px;"">We've designed this course to cover the basics of web development; from structuring your web pages using HTML, to styling them using CSS. In addition, you will be introduced to programming fundamentals by having a look at one of the building blocks of web pages; JavaScript. Instead of watching countless videos, and ending up wondering how to translate those videos into code, you will be guided through the process, and applying what you learn through interactive tasks and challenges throughout each session.</span><br></p>",NULL,[[REDACTED]],k2D3c21UUzy6,25,9,0,2021-06-01 00:36:31,2021-08-03 21:30:00,1,NULL,0,1,"Web Dev,FrontEnd",NULL
+7,2020-07-16 21:34:52.530700,2021-07-15 18:38:40.376688,Intro into VueJS,"<p><span style=""font-size: medium; letter-spacing: 1px;"">We are currently checking for interest in this course. If you would like to join, please drop us a message, and keep an eye on this page</span><br></p>",NULL,[[REDACTED]],jH56xi8AbUy2,12,5,1,2021-10-19 00:36:31,2021-12-14 21:30:00,1,NULL,1,1,"Web Dev,FrontEnd",NULL
+8,2021-04-12 19:10:11.000000,2022-02-24 14:30:16.281625,Intro to Next.js,"<p><span style=""font-size: medium; letter-spacing: 1px;"">We are currently checking for interest in this course. If you would like to join, please drop us a message, and keep an eye on this page</span><br></p>
+
+<h4 class=""clean-para"" style=""font-size: 1.4em; color:  var(--lm-black4-white3);"">Breakdown</h4>
+
+<p style=""margin-bottom: 0; letter-spacing: 1px; font-size: medium;"">Week 1:</p>
+<ul class=""clean-para"" style=""margin-top:0;"">
+    <li>Course introduction</li>
+    <li>Intro to and writing HTML</li>
+    <li>Web page structures</li>
+    <li>Intro to and writing CSS</li>
+    <li>The anatomy of a web page</li>
+    <li>Practical: Creating a web page</li>
+</ul>
+
+
+<p style=""margin-bottom: 0; letter-spacing: 1px; font-size: medium;"">Week 2:</p>
+<ul class=""clean-para"" style=""margin-top:0;"">
+    <li>Brief history of the web</li>
+    <li>Where it is heading</li>
+    <li>Compatibility: Writing for different browsers</li>
+    <li>Introduction to web UX</li>
+    <li>UI Considerations</li>
+    <li>Introduction to responsive web</li>
+    <li>Practical: Style a website</li>
+</ul>
+
+<p style=""margin-bottom: 0; letter-spacing: 1px; font-size: medium;"">Week 3:</p>
+<ul class=""clean-para"" style=""margin-top:0;"">
+    <li>Introduction to “algorithm”</li>
+    <li>Understanding programming</li>
+    <li>Practical: writing pseudo code</li>
+    <li>JavaScript Fundamentals</li>
+    <li>Practical: Anagram Checker</li>
+    <li>DOM Events</li>
+    <li>Practical: Clicking game</li>
+</ul>
+
+<p style=""margin-bottom: 0; letter-spacing: 1px; font-size: medium;"">Week 4:</p>
+<ul class=""clean-para"" style=""margin-top:0;"">
+    <li>Understanding methods</li>
+    <li>Using modules</li>
+    <li>Practical: writing your first module</li>
+    <li>Introduction to JSX</li>
+</ul>
+
+<p style=""margin-bottom: 0; letter-spacing: 1px; font-size: medium;"">Week 5:</p>
+<ul class=""clean-para"" style=""margin-top:0;"">
+    <li>Introduction to Next.js and React Elements</li>
+    <li>Understanding react in Next.js</li>
+    <li>Practical: Making a calculator</li>
+</ul>
+
+<p style=""margin-bottom: 0; letter-spacing: 1px; font-size: medium;"">Week 6:</p>
+<ul class=""clean-para"" style=""margin-top:0;"">
+    <li>Introduction to Git and Github Desktop</li>
+    <li>Setting up a repository</li>
+    <li>Practical: Committing to repository</li>
+    <li>CSS modules and global styling</li>
+    <li>Practical: Styling the calculator</li>
+</ul>
+
+<p style=""margin-bottom: 0; letter-spacing: 1px; font-size: medium;"">Week 7:</p>
+<ul class=""clean-para"" style=""margin-top:0;"">
+    <li>Practical: Team up</li>
+    <li>Preparing for collaboration with Github</li>
+    <li>Practical: Project planning</li>
+    <li>Project Briefing</li>
+    <li>Practical: Tasking</li>
+</ul>
+
+<p style=""margin-bottom: 0; letter-spacing: 1px; font-size: medium;"">Week 8:</p>
+<ul class=""clean-para"" style=""margin-top:0;"">
+    <li>Practical: Team development</li>
+</ul>
+
+<p style=""margin-bottom: 0; letter-spacing: 1px; font-size: medium;"">Week 9:</p>
+<ul class=""clean-para"" style=""margin-top:0;"">
+    <li>Practical: Team development, wrapping up</li>
+    <li>Demo</li>
+    <li>Awards</li>
+</ul>",TBC,[[REDACTED]],nx22jKL0le11,20,9,0,2022-05-12 19:00:00,2022-07-30 19:00:00,1,NULL,0,1,"Web Dev,FrontEnd",NULL
+9,2021-06-05 15:22:53.000000,2021-07-15 21:00:50.678370,Programming Fundamentals,"<p><span style=""font-size: medium; letter-spacing: 1px;"">This course has now ended. Sign up to the mailing list to know about upcoming courses like this!</span><br></p>
+
+<p style=""margin-bottom: 0; letter-spacing: 1px; font-size: medium;"">If you would like to join, please sign up or get in touch The details What we'll cover:</p>
+<ul class=""clean-para"" style=""margin-top:0;"">
+    <li>Course introduction</li>
+    <li>Operators and Expressions Variables</li>
+    <li>Functions Loops and Iteration</li>
+    <li>Control Flow</li>
+    <li>Error Handling</li>
+    <li>Object Types</li>
+    <li>Inheritance and Prototypes</li>
+</ul>
+
+<p style=""margin-bottom: 0; letter-spacing: 1px; font-size: medium;"">Who is this for:</p>
+<ul class=""clean-para"" style=""margin-top:0;"">
+    <li>Programming Newbies</li>
+    <li>JS Newbies</li>
+    <li>Those who want to learn with others</li>
+    <li>Those looking for structured learning</li>
+</ul>
+
+<p style=""margin-bottom: 0; letter-spacing: 1px; font-size: medium;"">Who its not for:</p>
+<ul class=""clean-para"" style=""margin-top:0;"">
+    <li>People who know the basics of programming</li>
+    <li>People who know the basics of JavaScript</li>
+    <li>People who have taken our WD1 or WD2 courses</li>
+    <li>Those looking to join our WD3 (NodeJS/NPM) Course</li>
+    <li>Those looking to join our WD4 (VueJS) or WD5 (ReactJS-based) Courses</li>
+</ul>
+
+<p style=""margin-bottom: 0; letter-spacing: 1px; font-size: medium;"">What you'll need:</p>
+<ul class=""clean-para"" style=""margin-top:0;"">
+    <li>A laptop (We can help)</li>
+    <li>An internet connection (We can help)</li>
+    <li>An IDE (We recommend VSCode)</li>
+    <li>6 Hours</li>
+</ul>
+
+<p style=""margin-bottom: 0; letter-spacing: 1px; font-size: medium;"">What to expect by the end:</p>
+<ul class=""clean-para"" style=""margin-top:0;"">
+    <li>Basic knowledge of programming concepts</li>
+    <li>A basic understanding of JavaScript</li>
+    <li>A basic understanding of Git tools</li>
+    <li>PF Certificate</li>
+    <li>Access to our WD3, WD4 and WD5 courses</li>
+</ul>",NULL,[[REDACTED]],wdjs2021ts40,25,1,1,2021-07-03 10:00:00,2021-07-03 17:00:00,1,NULL,1,1,"Beginner, Web Dev",NULL
+10,2021-06-05 16:11:36.000000,2021-07-15 18:35:44.543387,TestCourse32,Ignore - Test Course,NULL,[[REDACTED]],af33gt1sa4zY,9,1,0,2020-02-02 02:02:02,2020-02-02 20:20:20,0,NULL,0,0,NULL,NULL
+11,2021-07-12 17:54:27.000000,2021-07-29 20:10:04.464966,Intro to .NET with C#,"<p><span style=""font-size: medium; letter-spacing: 1px;"">“What’s a C#?” (That’s a hash by the way, it’s pronounced C Sharp). What is .NET? How do you program? Luckily for you there’s a chance for you to find all of this out! </span><br></p>
+
+<p><span style=""font-size: medium; letter-spacing: 1px;"">In this course, you’ll learn the basic principles of programming through the power of C#, and even develop a website with it! As one of the fastest-growing frameworks, .NET gives you the power to run applications just about anywhere you can think of; whether it’s the command line, smartphones, or even to make websites.</span><br></p>
+
+<p><span style=""font-size: medium; letter-spacing: 1px;"">Not just presentations but also interactive tasks to help you go between theory and practical outputs from the things you learn. This will give you a practical and foundational knowledge which you can apply where you like in the future.</span><br></p>
+
+
+<p style=""margin-bottom: 0; letter-spacing: 1px; font-size: large;"">Who is this for:</p>
+<ul class=""clean-para"" style=""margin-top:0;"">
+    <li>Programming Newbies</li>
+    <li>Those new to C#, Web Development, and/or .NET</li>
+    <li>Those who want to learn with others</li>
+    <li>Those looking for structured learning</li>
+</ul>
+
+<p style=""margin-bottom: 0; letter-spacing: 1px; font-size: large;"">Who its not for:</p>
+<ul class=""clean-para"" style=""margin-top:0;"">
+    <li>People who are very familiar C#</li>
+    <li>Those looking for purely visual or design courses</li>
+</ul>
+
+<p style=""margin-bottom: 0; letter-spacing: 1px; font-size: large;"">What you'll need:</p>
+<ul class=""clean-para"" style=""margin-top:0;"">
+    <li>A computer with a working mic (We can help)</li>
+    <li>A stable internet connection (We can help)</li>
+    <li>An IDE (We recommend VSCode)</li>
+    <li>Basic understanding of HTML and CSS (don’t worry, we will send out a preparation pack!)</li>
+    <li>2 Hours a week (on Tuesdays) for 9 Weeks</li>
+</ul>
+
+<p style=""margin-bottom: 0; letter-spacing: 1px; font-size: large;"">What to expect by the end:</p>
+<ul class=""clean-para"" style=""margin-top:0;"">
+    <li>Basic knowledge of programming concepts</li>
+    <li>A basic understanding of C# with .NET</li>
+    <li>A very basic understanding of using Git in VS Code</li>
+    <li>PF Certificate</li>
+    <li>Priority access to our future courses</li>
+</ul>",NULL,[[REDACTED]],wdN2021jmeW6,0,9,0,2021-08-03 19:00:00,2021-09-28 21:00:00,0,NULL,1,1,"Web Dev, BackEnd, .NET",NULL
+12,2021-11-09 17:42:33.000000,2022-04-20 10:48:50.472200,Intro to Web Dev,"<p>Getting a handle on the concepts and jargon surrounding web development and website creation can be a full-time job in and of itself, especially when you are doing it alone. How do you start? Where do you begin? Should you be using Javascript or React?</p><p>We've designed this course to cover the basics of web development; from structuring your web pages using HTML, to styling them using CSS. In addition, you will be introduced to programming fundamentals by having a look at one of the building blocks of web pages; JavaScript. Instead of watching countless videos, and ending up wondering how to translate those videos into code, you will be guided through the process, and applying what you learn through interactive tasks and challenges throughout each session.</p>
+
+<h4 class=""clean-para"" style=""font-size: 1.4em; color:  var(--lm-black4-white3);"">Breakdown</h4>
+
+<p style=""margin-bottom: 0; letter-spacing: 1px; font-size: medium;"">Week 1:</p>
+<ul class=""clean-para"" style=""margin-top:0;"">
+    <li>Course introduction</li>
+    <li>Intro to and writing HTML</li>
+    <li>Web page structures</li>
+    <li>Intro to and writing CSS</li>
+    <li>The anatomy of a web page</li>
+    <li>Practical: Creating a web page</li>
+</ul>
+
+
+<p style=""margin-bottom: 0; letter-spacing: 1px; font-size: medium;"">Week 2-3:</p>
+<ul class=""clean-para"" style=""margin-top:0;"">
+    <li>Brief history of the web</li>
+    <li>Compatibility: Writing for different browsers</li>
+    <li>Introduction to web UX</li>
+    <li>UI Considerations</li>
+    <li>Accessibility considerations</li>
+    <li>Introduction to responsive web</li>
+    <li>HTML elements</li>
+    <li>Practical: Style a website</li>
+</ul>
+
+<p style=""margin-bottom: 0; letter-spacing: 1px; font-size: medium;"">Week 4-5:</p>
+<ul class=""clean-para"" style=""margin-top:0;"">
+    <li>Introduction to “algorithm”</li>
+    <li>Understanding programming</li>
+    <li>Understanding methods</li>
+    <li>Practical: writing pseudo code</li>
+    <li>JavaScript Fundamentals</li>
+    <li>DOM Events</li>
+    <li>Practical: Anagram Checker, Writing pseudo code, Clicking game</li>
+</ul>
+
+<p style=""margin-bottom: 0; letter-spacing: 1px; font-size: medium;"">Week 6:</p>
+<ul class=""clean-para"" style=""margin-top:0;"">
+    <li>Introduction to Git and Github Desktop</li>
+    <li>Setting up a repository</li>
+    <li>Practical: Committing to repository</li>
+    <li>CSS modules and global styling</li>
+    <li>Practical: Styling the calculator</li>
+</ul>
+
+<p style=""margin-bottom: 0; letter-spacing: 1px; font-size: medium;"">Week 7:</p>
+<ul class=""clean-para"" style=""margin-top:0;"">
+    <li>Practical: Team up</li>
+    <li>Preparing for collaboration with Github</li>
+    <li>Practical: Project planning</li>
+    <li>Project Briefing</li>
+    <li>Practical: Tasking</li>
+</ul>
+
+<p style=""margin-bottom: 0; letter-spacing: 1px; font-size: medium;"">Week 8:</p>
+<ul class=""clean-para"" style=""margin-top:0;"">
+    <li>Practical: Team development</li>
+</ul>
+
+<p style=""margin-bottom: 0; letter-spacing: 1px; font-size: medium;"">Week 9:</p>
+<ul class=""clean-para"" style=""margin-top:0;"">
+    <li>Practical: Team development, wrapping up</li>
+    <li>Demo</li>
+    <li>Awards</li>
+</ul>","Nonsuch Studios, 92 Lower Parliament St, Nottingham, NG1 1EH",[[REDACTED]],wdb22022ts40,15,9,1,2022-04-12 19:00:00,2022-06-14 21:00:00,0,NULL,0,1,"Web Dev,FrontEnd,Beginner",[[REDACTED]]

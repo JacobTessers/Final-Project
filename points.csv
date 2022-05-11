@@ -1,0 +1,518 @@
+id,created_at,updated_at,transactionId,balance,ref,description,status,userId,givenById,courseId
+1,2020-07-16 21:42:53.867898,2020-07-05 21:42:53.867898,first-login-otd,20,ijb2itytxdwwyg,First log-in of the day,1,2,NULL,NULL
+2,2020-07-17 02:04:58.423793,2020-07-17 02:04:58.423793,first-login-otd,20,hur4tkqvivd9be,First log-in of the day,1,50,NULL,NULL
+3,2020-07-17 14:24:59.858090,2020-07-17 14:24:59.858090,first-login-otd,20,484aj9i885s7gi,First log-in of the day,1,2,NULL,NULL
+4,2020-07-17 16:37:37.971197,2020-07-17 16:37:37.971197,first-login-otd,20,e8rg666muiqoqw,First log-in of the day,1,51,NULL,NULL
+5,2020-07-18 11:20:16.176885,2020-07-18 11:20:16.176885,first-login-otd,20,xs75yufl0omicm,First log-in of the day,1,2,NULL,NULL
+6,2020-07-18 11:32:10.327288,2020-07-18 11:32:10.327288,first-login-otd,20,95p29oyx8xiw0g,First log-in of the day,1,51,NULL,NULL
+7,2020-07-18 21:23:47.466189,2020-07-18 21:23:47.466189,first-login-otd,20,m6luars85dohs0,First log-in of the day,1,50,NULL,NULL
+8,2020-07-19 00:25:46.611626,2020-07-19 00:25:46.611626,first-login-otd,20,dqkz9jqpzrq5wi,First log-in of the day,1,2,NULL,NULL
+9,2020-07-19 00:25:53.434221,2020-07-19 00:25:53.434221,first-login-otd,20,st0fetn2m9gay3,First log-in of the day,1,51,NULL,NULL
+10,2020-07-19 00:27:52.244333,2020-07-19 00:27:52.244333,first-login-otd,20,aimxskkkahv5g5,First log-in of the day,1,51,NULL,NULL
+11,2020-07-19 00:31:09.062709,2020-07-19 00:31:09.062709,first-login-otd,20,sh7jpviti0jimu,First log-in of the day,1,51,NULL,NULL
+12,2020-07-19 00:36:49.640981,2020-07-19 00:36:49.640981,first-login-otd,20,e3yv1tahz6ktd4,First log-in of the day,1,51,NULL,NULL
+13,2020-07-19 00:42:21.605888,2020-07-19 00:42:21.605888,first-login-otd,20,us8umtgi159els,First log-in of the day,1,51,NULL,NULL
+14,2020-07-19 00:54:49.981434,2020-07-19 00:54:49.981434,first-login-otd,20,k341c12angswwm,First log-in of the day,1,2,NULL,NULL
+15,2020-07-19 01:08:25.559932,2020-07-19 01:08:25.559932,first-login-otd,20,kirrd99wmkdmya,First log-in of the day,1,2,NULL,NULL
+16,2020-07-19 11:33:48.327073,2020-07-19 11:33:48.327073,first-login-otd,20,a605b52o3wjpfm,First log-in of the day,1,51,NULL,NULL
+17,2020-07-20 00:05:48.602636,2020-07-20 00:05:48.602636,first-login-otd,20,gl7fj7alcky0fs,First log-in of the day,1,2,NULL,NULL
+18,2020-07-20 00:10:31.944375,2020-07-20 00:10:31.944375,first-login-otd,20,q5692nnuh22n5c,First log-in of the day,1,51,NULL,NULL
+19,2020-07-20 00:16:14.572227,2020-07-20 00:16:14.572227,first-login-otd,20,phxsops9cach1y,First log-in of the day,1,50,NULL,NULL
+20,2020-07-21 23:55:55.746090,2020-07-21 23:55:55.746090,first-login-otd,20,l4m2qbp5uzel1l,First log-in of the day,1,50,NULL,NULL
+21,2020-07-22 11:26:14.314675,2020-07-22 11:26:14.314675,first-login-otd,20,lu1exinacxhcfs,First log-in of the day,1,2,NULL,NULL
+22,2020-07-22 11:26:34.197026,2020-07-22 11:26:34.197026,first-login-otd,20,5yjl5g3y5a0yhs,First log-in of the day,1,51,NULL,NULL
+23,2020-07-23 17:59:05.811441,2020-07-23 17:59:05.811441,first-login-otd,20,xiajr7a54jlizg,First log-in of the day,1,50,NULL,NULL
+24,2020-07-23 17:59:07.718861,2020-07-23 17:59:07.718861,first-login-otd,20,nq6lbrqyjxt271,First log-in of the day,1,2,NULL,NULL
+25,2020-07-23 18:03:29.724210,2020-07-23 18:03:29.724210,first-login-otd,20,jo0fr2bumzuu2f,First log-in of the day,1,51,NULL,NULL
+26,2020-07-25 12:01:11.973162,2020-07-25 12:01:11.973162,first-login-otd,20,sc1v77aifrmhie,First log-in of the day,1,2,NULL,NULL
+27,2020-07-26 00:10:54.145458,2020-07-26 00:10:54.145458,first-login-otd,20,7i8xjs7zj2z1ul,First log-in of the day,1,2,NULL,NULL
+28,2020-07-26 00:53:15.322301,2020-07-26 00:53:15.322301,first-login-otd,20,yc64t1ufyls0zq,First log-in of the day,1,2,NULL,NULL
+29,2020-07-26 16:02:09.615910,2020-07-26 16:02:09.615910,first-login-otd,20,p60ndsj5yszaey,First log-in of the day,1,50,NULL,NULL
+30,2020-07-27 17:37:27.478336,2020-07-27 17:37:27.478336,first-login-otd,20,7eeq28z2s9zr60,First log-in of the day,1,2,NULL,NULL
+31,2020-07-28 16:42:36.488128,2020-07-28 16:42:36.488128,first-login-otd,20,8l7yac1d1bxz1l,First log-in of the day,1,2,NULL,NULL
+32,2020-07-28 17:15:05.017007,2020-07-28 17:15:05.017007,first-login-otd,20,e9f1chsojejmwf,First log-in of the day,1,51,NULL,NULL
+33,2020-07-29 08:53:57.627905,2020-07-29 08:53:57.627905,first-login-otd,20,xsmkt3tleeupez,First log-in of the day,1,2,NULL,NULL
+34,2020-07-29 14:51:10.088331,2020-07-29 14:51:10.088331,first-login-otd,20,5rmgutf09qsnzo,First log-in of the day,1,51,NULL,NULL
+35,2020-08-08 14:15:03.378002,2020-08-08 14:15:03.378002,first-login-otd,20,pmxiy14kyvbp46,First log-in of the day,1,2,NULL,NULL
+36,2020-08-09 18:55:28.474456,2020-08-09 18:55:28.474456,first-login-otd,20,2n392ao5gk3bmr,First log-in of the day,1,2,NULL,NULL
+37,2020-08-11 14:24:13.565419,2020-08-11 14:24:13.565419,first-login-otd,20,o4c6zyx02uapc8,First log-in of the day,1,51,NULL,NULL
+38,2020-08-11 20:58:49.071815,2020-08-11 20:58:49.071815,first-login-otd,20,ms6t4dm8coq2wd,First log-in of the day,1,2,NULL,NULL
+39,2020-08-11 21:27:43.941214,2020-08-11 21:27:43.941214,first-login-otd,20,ihktqjydq3wajh,First log-in of the day,1,50,NULL,NULL
+40,2020-08-12 18:11:57.190235,2020-08-12 18:11:57.190235,first-login-otd,20,daz29y82horrpq,First log-in of the day,1,2,NULL,NULL
+41,2020-08-16 11:45:25.517604,2020-08-16 11:45:25.517604,first-login-otd,20,l3jg2o8howx2a1,First log-in of the day,1,2,NULL,NULL
+42,2020-08-16 15:49:58.103088,2020-08-16 15:49:58.103088,1bjh2n30wlzg,20,f86nufowc821ic,Test passed for Say Hello,1,2,NULL,NULL
+43,2020-08-16 17:02:47.192809,2020-08-16 17:02:47.192809,fsrta18t0h43,20,nzhn5oyqs8lgpt,Test passed for HTML Tasks,1,2,NULL,NULL
+44,2020-08-17 16:22:59.102507,2020-08-17 16:22:59.102507,first-login-otd,20,i1imurrd37m4sa,First log-in of the day,1,2,NULL,NULL
+45,2020-08-17 18:08:34.555438,2020-08-17 18:08:34.555438,qha4zbcx0ta1,20,ffo040c59mqprg,Test passed for HTML Red Button Assignment,1,52,NULL,NULL
+46,2020-08-17 18:17:26.805837,2020-08-17 18:17:26.805837,first-login-otd,20,pvjvvolkhh4xbd,First log-in of the day,1,52,NULL,NULL
+47,2020-08-18 14:11:00.521223,2020-08-18 14:11:00.521223,first-login-otd,20,f1hkfpon8ru5s7,First log-in of the day,1,2,NULL,NULL
+48,2020-08-21 18:30:13.218510,2020-08-21 18:30:13.218510,first-login-otd,20,awks3gyh9kjh70,First log-in of the day,1,2,NULL,NULL
+49,2020-08-21 22:32:51.598635,2020-08-25 18:43:36.000000,first-login-otd,13,entqx0v7wup9yv,Something 2,1,51,NULL,NULL
+50,2020-08-21 22:37:05.918943,2020-08-21 22:37:05.918943,first-login-otd,20,odchixje9cp72x,First log-in of the day,1,52,NULL,NULL
+51,2020-08-21 22:50:13.249013,2020-08-21 22:50:13.249013,ossvru2l0wal,20,7t8o2myvshvffx,Test passed for Demo HTML Assignment,1,52,NULL,NULL
+52,2020-08-21 23:41:10.818437,2020-08-21 23:41:10.818437,8t18i0srto1g,20,6j7whag2nlr1he,Test passed for Demo HTML Assignment,1,52,NULL,NULL
+53,2020-08-22 12:13:41.482543,2020-08-22 12:13:41.482543,first-login-otd,20,61x8n0uitfe335,First log-in of the day,1,2,NULL,NULL
+56,2020-08-22 18:47:29.443272,2020-08-22 18:47:29.000000,granted-by-instructor,3,ne3qrcxrwqu0u6,Final test,1,52,2,NULL
+57,2020-08-23 20:16:36.573868,2020-08-23 20:16:36.573868,first-login-otd,20,k8rggjd9rscp7c,First log-in of the day,1,2,NULL,NULL
+58,2020-08-23 20:31:06.432949,2020-08-23 20:31:06.432949,first-login-otd,20,zpgr5r65rydxws,First log-in of the day,1,52,NULL,NULL
+59,2020-08-24 19:28:42.975735,2020-08-24 19:28:42.975735,first-login-otd,20,rjhyadnnqlwcqd,First log-in of the day,1,52,NULL,NULL
+60,2020-08-24 19:38:38.345238,2020-08-24 19:38:38.345238,first-login-otd,20,onbu1q3jjzc4qh,First log-in of the day,1,2,NULL,NULL
+61,2020-08-24 19:44:07.221425,2020-08-24 19:44:07.000000,granted-by-instructor,5,23j9j07xcceil9,Testing,1,52,2,NULL
+62,2020-08-25 18:32:03.613296,2020-08-25 18:32:03.613296,first-login-otd,20,fug0n8gyqbcbvz,First log-in of the day,1,2,NULL,NULL
+63,2020-08-27 17:59:01.892082,2020-08-27 17:59:01.892082,first-login-otd,20,exdjxuqxdfp40a,First log-in of the day,1,2,NULL,NULL
+64,2020-08-29 08:49:37.001526,2020-08-29 08:49:37.001526,first-login-otd,20,0bzvut71ekzqvp,First log-in of the day,1,2,NULL,NULL
+65,2020-10-09 21:29:12.773804,2020-10-09 21:29:12.773804,first-login-otd,20,q6052eo2d4868n,First log-in of the day,1,2,NULL,NULL
+66,2020-11-08 19:49:00.556207,2020-11-08 19:49:00.556207,first-login-otd,20,r0lgc54nq2519m,First log-in of the day,1,2,NULL,NULL
+67,2020-11-14 15:37:18.002996,2020-11-14 15:37:18.002996,first-login-otd,20,ky5owgfzlhrsav,First log-in of the day,1,2,NULL,NULL
+68,2020-12-21 23:34:36.950753,2020-12-21 23:34:36.950753,first-login-otd,20,japw94wj9fa4sn,First log-in of the day,1,2,NULL,NULL
+69,2020-12-22 15:03:50.782305,2020-12-22 15:03:50.782305,first-login-otd,20,zgq18hwtv1i4tk,First log-in of the day,1,2,NULL,NULL
+70,2020-12-23 14:08:42.615597,2020-12-23 14:08:42.615597,first-login-otd,20,bpw1zysq3mmzvn,First log-in of the day,1,3,NULL,NULL
+71,2020-12-24 15:56:24.665184,2020-12-24 15:56:24.665184,first-login-otd,20,k4jdwabbbiqton,First log-in of the day,1,2,NULL,NULL
+72,2020-12-27 00:10:05.418232,2020-12-27 00:10:05.418232,first-login-otd,20,lhzh5e3epo05gp,First log-in of the day,1,2,NULL,NULL
+73,2020-12-27 01:05:59.639740,2021-01-13 21:41:20.000000,first-login-otd,25,qz9e29kz1oohdf,First log-in of the day,1,51,NULL,NULL
+74,2020-12-27 10:46:24.482402,2020-12-27 10:46:24.482402,first-login-otd,20,zgyo98027y5lan,First log-in of the day,1,1,NULL,NULL
+75,2020-12-30 15:54:23.385049,2020-12-30 15:54:23.385049,first-login-otd,20,6p9jzmafg337ti,First log-in of the day,1,2,NULL,NULL
+76,2020-12-30 17:49:40.563718,2020-12-30 17:49:40.563718,first-login-otd,20,fra3ayu9s7182x,First log-in of the day,1,3,NULL,NULL
+77,2020-12-31 21:02:19.235046,2020-12-31 21:02:19.235046,first-login-otd,20,n5yqpss01tvud5,First log-in of the day,1,3,NULL,NULL
+78,2021-01-01 10:44:24.446769,2021-01-01 10:44:24.446769,first-login-otd,20,jfjl7219eretpl,First log-in of the day,1,3,NULL,NULL
+79,2021-01-02 08:50:03.424162,2021-01-02 08:50:03.424162,first-login-otd,20,dvwddyini2wxh9,First log-in of the day,1,1,NULL,NULL
+80,2021-01-02 15:30:13.582280,2021-01-02 15:30:13.582280,first-login-otd,20,o1h2fe67j1ym0p,First log-in of the day,1,2,NULL,NULL
+81,2021-01-03 16:17:34.467513,2021-01-03 16:17:34.467513,first-login-otd,20,zi44cz3cov6l2n,First log-in of the day,1,3,NULL,NULL
+82,2021-01-03 22:48:53.904529,2021-01-03 22:48:53.904529,first-login-otd,20,oljnpbieq9obof,First log-in of the day,1,2,NULL,NULL
+83,2021-01-04 09:43:09.191398,2021-01-04 09:43:09.191398,first-login-otd,20,mzcvhce4fud3bu,First log-in of the day,1,3,NULL,NULL
+84,2021-01-05 10:28:32.520740,2021-01-05 10:28:32.520740,first-login-otd,20,3w9n787fc3d8w7,First log-in of the day,1,1,NULL,NULL
+85,2021-01-05 10:56:21.234536,2021-01-05 10:56:21.234536,first-login-otd,20,p142yas0oan41m,First log-in of the day,1,3,NULL,NULL
+86,2021-01-06 19:46:26.498059,2021-01-06 19:46:26.498059,first-login-otd,20,2qiyqlxb4i1tku,First log-in of the day,1,2,NULL,NULL
+87,2021-01-06 21:07:26.430650,2021-01-06 21:07:26.430650,first-login-otd,20,db0j6r1hfnh5vf,First log-in of the day,1,1,NULL,NULL
+88,2021-01-07 00:21:11.912616,2021-01-07 00:21:11.912616,first-login-otd,20,gl63bmxm738xz5,First log-in of the day,1,2,NULL,NULL
+89,2021-01-07 15:25:20.782673,2021-01-07 15:25:20.782673,first-login-otd,20,tcqpsx31rr615g,First log-in of the day,1,3,NULL,NULL
+90,2021-01-07 19:41:32.521172,2021-01-07 19:41:32.521172,first-login-otd,20,3vf0kcu41z8irf,First log-in of the day,1,1,NULL,NULL
+91,2021-01-08 00:03:45.873696,2021-01-08 00:03:45.873696,first-login-otd,20,de9p8ugrxc9msc,First log-in of the day,1,1,NULL,NULL
+92,2021-01-08 00:22:51.077483,2021-01-08 00:22:51.077483,first-login-otd,20,2w2fhk03lfhnp4,First log-in of the day,1,2,NULL,NULL
+93,2021-01-09 17:01:47.542155,2021-01-09 17:01:47.542155,first-login-otd,20,tx1myik9a40nzp,First log-in of the day,1,2,NULL,NULL
+94,2021-01-09 19:17:52.092571,2021-01-09 19:17:52.092571,first-login-otd,20,vt8hki7km7fqau,First log-in of the day,1,1,NULL,NULL
+95,2021-01-10 00:50:28.985025,2021-01-10 00:50:28.985025,first-login-otd,20,rnlomaryibqoau,First log-in of the day,1,2,NULL,NULL
+96,2021-01-10 18:16:30.649478,2021-01-10 18:16:30.649478,first-login-otd,20,d3itp4povnepn4,First log-in of the day,1,1,NULL,NULL
+97,2021-01-11 00:39:31.411890,2021-01-11 00:39:31.411890,first-login-otd,20,ifnbr41j4hziwb,First log-in of the day,1,1,NULL,NULL
+99,2021-01-11 18:29:42.772534,2021-01-11 18:29:42.772534,first-login-otd,20,slpfpfua8k8m0x,First log-in of the day,1,2,NULL,NULL
+100,2021-01-13 01:08:18.276967,2021-01-13 01:08:18.276967,first-login-otd,20,ckfuqm64atveil,First log-in of the day,1,2,NULL,NULL
+101,2021-01-13 01:53:11.268753,2021-01-13 01:53:11.000000,granted-by-instructor,10,lyhd581hgsdbjr,Test,1,3,2,NULL
+102,2021-01-13 16:00:14.234008,2021-01-13 16:00:14.234008,first-login-otd,20,u548dtnauua7i3,First log-in of the day,1,3,NULL,NULL
+103,2021-01-13 21:35:28.787930,2021-01-13 21:35:28.787930,first-login-otd,20,fpsl6ds7bcd7wv,First log-in of the day,1,1,NULL,NULL
+104,2021-01-14 00:19:58.787985,2021-01-14 00:19:58.787985,first-login-otd,20,s12x56s4fq2i9y,First log-in of the day,1,67,NULL,NULL
+105,2021-01-14 00:28:03.510236,2021-01-14 00:28:03.510236,first-login-otd,20,sxulka1o31mrg0,First log-in of the day,1,2,NULL,NULL
+106,2021-01-17 17:27:25.068350,2021-01-17 17:27:25.068350,first-login-otd,20,zretqf0qq2rg9w,First log-in of the day,1,2,NULL,NULL
+107,2021-01-20 20:02:07.260802,2021-01-20 20:02:07.260802,first-login-otd,20,xxoblp8vwlqmfg,First log-in of the day,1,2,NULL,NULL
+108,2021-01-22 17:07:47.278028,2021-01-22 17:07:47.278028,first-login-otd,20,v1r9uhce7z1ogg,First log-in of the day,1,2,NULL,NULL
+109,2021-01-28 18:52:17.291248,2021-01-28 18:52:17.291248,first-login-otd,20,nkdojdzsdljjq8,First log-in of the day,1,2,NULL,NULL
+110,2021-01-29 00:20:49.914953,2021-01-29 00:20:49.914953,first-login-otd,20,ei4igme9uqekch,First log-in of the day,1,2,NULL,NULL
+111,2021-01-31 18:52:59.296915,2021-01-31 18:52:59.296915,first-login-otd,20,4gmtnpdog9yysr,First log-in of the day,1,2,NULL,NULL
+112,2021-02-01 00:14:48.183073,2021-02-01 00:14:48.183073,first-login-otd,20,jbajb21rhg0ed0,First log-in of the day,1,2,NULL,NULL
+113,2021-02-05 12:22:06.443339,2021-02-05 12:22:06.443339,first-login-otd,20,vur0y507olhpfi,First log-in of the day,1,1,NULL,NULL
+114,2021-02-05 20:05:18.711967,2021-02-05 20:05:18.711967,first-login-otd,20,yu4w4bna2juqe0,First log-in of the day,1,2,NULL,NULL
+115,2021-02-06 00:36:44.919503,2021-02-06 00:36:44.919503,first-login-otd,20,rguk7nat5m1pxm,First log-in of the day,1,2,NULL,NULL
+116,2021-02-07 13:00:56.211816,2021-02-07 13:00:56.211816,first-login-otd,20,8u4b0oa1qmnqrz,First log-in of the day,1,2,NULL,NULL
+117,2021-02-07 20:06:57.150098,2021-02-07 20:06:57.150098,first-login-otd,20,998smo92mghqxs,First log-in of the day,1,1,NULL,NULL
+118,2021-02-08 00:29:06.565567,2021-02-08 00:29:06.565567,first-login-otd,20,y13sq2o4crkt1w,First log-in of the day,1,2,NULL,NULL
+119,2021-02-08 10:36:32.709494,2021-02-08 10:36:32.709494,first-login-otd,20,3vhtg6claa3zfp,First log-in of the day,1,3,NULL,NULL
+120,2021-02-09 00:03:17.921992,2021-02-09 00:03:17.921992,first-login-otd,20,0knvmzblz2dl0x,First log-in of the day,1,2,NULL,NULL
+121,2021-02-10 00:27:22.371737,2021-02-10 00:27:22.371737,first-login-otd,20,dr61znpm7jxk7w,First log-in of the day,1,2,NULL,NULL
+122,2021-02-12 16:01:52.656748,2021-02-12 16:01:52.656748,first-login-otd,20,ft4k10j6e52stt,First log-in of the day,1,2,NULL,NULL
+123,2021-02-13 00:27:18.426767,2021-02-13 00:27:18.426767,first-login-otd,20,wn2ye89rtadclv,First log-in of the day,1,2,NULL,NULL
+124,2021-02-13 07:32:58.348996,2021-03-02 16:57:21.000000,first-login-otd,20,wosvh3yz21pb9u,First log-in of the day,1,92,NULL,NULL
+125,2021-02-14 14:04:56.812349,2021-02-14 14:04:56.812349,first-login-otd,20,cb611mhx0i2v0v,First log-in of the day,1,2,NULL,NULL
+126,2021-02-14 16:29:47.151694,2021-02-14 16:29:47.151694,first-login-otd,20,ieh88a1nz7n9ci,First log-in of the day,1,4,NULL,NULL
+127,2021-02-15 20:19:28.595185,2021-02-15 20:19:28.595185,first-login-otd,20,yzfh1kewogwfsw,First log-in of the day,1,2,NULL,NULL
+128,2021-02-16 00:06:40.398827,2021-02-16 00:06:40.398827,first-login-otd,20,odgg64djec54d2,First log-in of the day,1,2,NULL,NULL
+129,2021-02-16 19:05:54.210561,2021-02-16 19:05:54.210561,first-login-otd,20,0m0v7mzf2digw4,First log-in of the day,1,1,NULL,NULL
+130,2021-02-17 10:22:07.930553,2021-02-17 10:22:07.930553,first-login-otd,20,vzig553129u0ik,First log-in of the day,1,2,NULL,NULL
+131,2021-02-17 21:24:10.398593,2021-02-17 21:24:10.398593,first-login-otd,20,8dm3vx6dxewarz,First log-in of the day,1,1,NULL,NULL
+132,2021-02-18 00:38:27.606259,2021-02-18 00:38:27.606259,first-login-otd,20,ilwfaux1ef8th0,First log-in of the day,1,2,NULL,NULL
+133,2021-02-19 12:44:33.088101,2021-02-19 12:44:33.088101,first-login-otd,20,q4e7982vyi3eoe,First log-in of the day,1,92,NULL,NULL
+134,2021-02-19 18:32:35.124627,2021-02-19 18:32:35.124627,first-login-otd,20,uneez0i95jbbmi,First log-in of the day,1,2,NULL,NULL
+135,2021-02-20 00:18:23.033164,2021-02-20 00:18:23.033164,first-login-otd,20,8ktfq0juiuuiip,First log-in of the day,1,2,NULL,NULL
+136,2021-02-20 15:22:28.088988,2021-02-20 15:22:28.088988,first-login-otd,20,6tp288xoqjwfu0,First log-in of the day,1,67,NULL,NULL
+137,2021-02-20 16:04:28.969924,2021-02-20 16:04:29.000000,granted-by-instructor,1,nexa6ize0vnhcd,testing,1,51,2,NULL
+138,2021-02-20 17:09:17.934142,2021-02-20 17:09:17.934142,first-login-otd,20,jflmox4p9qf6cu,First log-in of the day,1,4,NULL,NULL
+139,2021-02-20 20:23:09.154274,2021-02-20 20:23:09.000000,granted-by-instructor,1,3ukc537jfrcpu7,is ok at being ,1,4,4,NULL
+140,2021-02-21 20:10:36.147672,2021-02-21 20:10:36.147672,first-login-otd,20,2j3poticj4q1k7,First log-in of the day,1,2,NULL,NULL
+141,2021-02-21 20:29:53.553099,2021-02-21 20:29:53.553099,first-login-otd,20,fb5m5yaghwqpqq,First log-in of the day,1,1,NULL,NULL
+142,2021-02-21 21:31:32.315352,2021-02-21 21:31:32.315352,first-login-otd,20,1nz304qo69k0j7,First log-in of the day,1,3,NULL,NULL
+143,2021-02-21 21:33:04.734116,2021-02-21 21:33:04.734116,first-login-otd,20,2r7l6m4q2g3gm6,First log-in of the day,1,54,NULL,NULL
+144,2021-02-22 00:14:45.937001,2021-02-22 00:14:45.937001,first-login-otd,20,cjx8zo53pclnyo,First log-in of the day,1,2,NULL,NULL
+145,2021-02-22 09:34:01.612250,2021-02-22 09:34:01.612250,first-login-otd,20,t6yb2j783yecbl,First log-in of the day,1,69,NULL,NULL
+146,2021-02-22 14:43:28.823718,2021-02-22 14:43:28.823718,first-login-otd,20,45ypyin9zf3wzn,First log-in of the day,1,67,NULL,NULL
+147,2021-02-22 20:58:32.380670,2021-02-22 20:58:32.380670,first-login-otd,20,czbfwfrrotq3sb,First log-in of the day,1,1,NULL,NULL
+148,2021-02-24 11:00:24.511786,2021-02-24 11:00:24.511786,first-login-otd,20,vt1ipqk6gkj0my,First log-in of the day,1,2,NULL,NULL
+149,2021-02-25 01:32:36.439919,2021-02-25 01:32:36.439919,first-login-otd,20,36ojdeuulf59tb,First log-in of the day,1,2,NULL,NULL
+150,2021-02-26 00:07:57.435551,2021-02-26 00:07:57.435551,first-login-otd,20,9h6yl8naeu29h8,First log-in of the day,1,2,NULL,NULL
+151,2021-02-26 18:39:28.440447,2021-02-26 18:39:28.440447,first-login-otd,20,vwh4sw7ozbyhqq,First log-in of the day,1,67,NULL,NULL
+152,2021-02-27 12:58:39.518649,2021-02-27 12:58:39.518649,first-login-otd,20,8j16jidpz8p7n7,First log-in of the day,1,2,NULL,NULL
+153,2021-02-27 21:53:46.285538,2021-02-27 21:53:46.285538,first-login-otd,20,hye8kcgpklaqs7,First log-in of the day,1,67,NULL,NULL
+154,2021-02-28 00:21:41.440106,2021-02-28 00:21:41.440106,first-login-otd,20,d21z8dspik400l,First log-in of the day,1,2,NULL,NULL
+155,2021-02-28 23:12:40.555827,2021-02-28 23:12:40.555827,first-login-otd,20,d714egcmxxgch4,First log-in of the day,1,1,NULL,NULL
+156,2021-03-01 00:33:48.267750,2021-03-01 00:33:48.267750,first-login-otd,20,g7g71uo61ntjvt,First log-in of the day,1,2,NULL,NULL
+157,2021-03-01 09:54:01.202509,2021-03-01 09:54:01.202509,first-login-otd,20,pnb8xcdogttt93,First log-in of the day,1,67,NULL,NULL
+158,2021-03-02 12:52:02.348584,2021-03-02 12:52:02.348584,first-login-otd,20,b4gyxlo07qpqxj,First log-in of the day,1,2,NULL,NULL
+159,2021-03-02 17:58:25.865614,2021-03-02 17:58:25.865614,first-login-otd,20,zw9plmn5ia5z35,First log-in of the day,1,111,NULL,NULL
+160,2021-03-02 18:01:56.941403,2021-03-02 18:01:56.941403,first-login-otd,20,l6otmnwqzfpoci,First log-in of the day,1,110,NULL,NULL
+161,2021-03-02 18:13:18.871891,2021-03-02 18:13:18.871891,first-login-otd,20,91lhllgw28z4t9,First log-in of the day,1,67,NULL,NULL
+162,2021-03-02 21:17:31.314867,2021-03-02 21:17:31.314867,first-login-otd,20,z0h8vvbr8ibegy,First log-in of the day,1,106,NULL,NULL
+163,2021-03-02 21:34:01.114071,2021-03-02 21:34:01.114071,first-login-otd,20,ytkhvpmynu38zv,First log-in of the day,1,105,NULL,NULL
+164,2021-03-02 22:12:04.756194,2021-03-02 22:12:04.756194,first-login-otd,20,gqs5hacb9vkmrv,First log-in of the day,1,1,NULL,NULL
+165,2021-03-02 22:15:31.890489,2021-03-02 22:15:31.890489,first-login-otd,20,zai0r293pdo5dd,First log-in of the day,1,66,NULL,NULL
+166,2021-03-03 00:15:20.751936,2021-03-03 00:15:20.751936,first-login-otd,20,tkrxexz2qh0w2l,First log-in of the day,1,105,NULL,NULL
+167,2021-03-03 06:55:34.299438,2021-03-03 06:55:34.299438,first-login-otd,20,iscwfxvpmlm5fu,First log-in of the day,1,67,NULL,NULL
+168,2021-03-03 09:00:54.367032,2021-03-03 09:00:54.367032,first-login-otd,20,tlyim93eran8d0,First log-in of the day,1,1,NULL,NULL
+169,2021-03-03 14:09:21.610574,2021-03-03 14:09:21.610574,first-login-otd,20,8le220790213gi,First log-in of the day,1,2,NULL,NULL
+170,2021-03-03 14:15:40.544270,2021-03-03 14:15:40.544270,first-login-otd,20,fu2eswz98no0sl,First log-in of the day,1,3,NULL,NULL
+171,2021-03-03 17:15:21.401874,2021-03-03 17:15:21.401874,first-login-otd,20,k1cknxagtt5ubv,First log-in of the day,1,92,NULL,NULL
+172,2021-03-03 20:11:54.228377,2021-03-03 20:11:54.228377,first-login-otd,20,khav6q2ucmzlpw,First log-in of the day,1,110,NULL,NULL
+173,2021-03-04 02:24:01.049690,2021-03-04 02:24:01.049690,first-login-otd,20,afdd39uc176xew,First log-in of the day,1,86,NULL,NULL
+174,2021-03-04 09:00:22.195272,2021-03-04 09:00:22.195272,first-login-otd,20,0z333s7yqa7ikz,First log-in of the day,1,1,NULL,NULL
+175,2021-03-04 16:33:28.903761,2021-03-04 16:33:28.903761,first-login-otd,20,iz8vj8snubeeak,First log-in of the day,1,67,NULL,NULL
+176,2021-03-04 18:22:38.056324,2021-03-04 18:22:38.056324,first-login-otd,20,ev778klg7ihy9c,First log-in of the day,1,2,NULL,NULL
+177,2021-03-05 09:18:40.949864,2021-03-05 09:18:40.949864,first-login-otd,20,60cb43h0sznw66,First log-in of the day,1,67,NULL,NULL
+178,2021-03-05 19:15:42.692034,2021-03-05 19:15:42.692034,first-login-otd,20,z8tw3uqvui2jzy,First log-in of the day,1,2,NULL,NULL
+179,2021-03-05 21:42:57.307061,2021-03-05 21:42:57.307061,resource-access-rrtGJAd2ae1e-286e1a92d35,12,kcy7zq65mwnkph,Accessed Resource 'Session 1 Recap',1,2,NULL,5
+180,2021-03-05 23:31:04.420656,2021-03-05 23:31:04.420656,resource-access-rrtGJAd2ae1e-1ff6a63722f,12,6jyu15b7pzwgcr,Accessed Resource 'Asset Sprite Sheet',1,2,NULL,5
+181,2021-03-06 12:23:38.243036,2021-03-06 12:23:38.243036,first-login-otd,20,c9hwwi7jyo1wh6,First log-in of the day,1,2,NULL,NULL
+182,2021-03-06 15:37:47.453965,2021-03-06 15:37:47.453965,first-login-otd,20,n4zzr8vjuxh8lx,First log-in of the day,1,110,NULL,NULL
+183,2021-03-06 15:38:01.936656,2021-03-06 15:38:01.936656,resource-access-rrtGJAd2ae1e-750dcf709f6,12,5wu9abk68ypqg4,Accessed Resource 'Whale Movement Code',1,110,NULL,5
+184,2021-03-06 20:23:51.036659,2021-03-06 20:23:51.036659,first-login-otd,20,8qnjidebnu1faz,First log-in of the day,1,67,NULL,NULL
+185,2021-03-07 02:22:25.871052,2021-03-07 02:22:25.871052,first-login-otd,20,2vdi3i4wx8n4wm,First log-in of the day,1,2,NULL,NULL
+186,2021-03-07 11:49:54.049194,2021-03-07 11:49:54.049194,first-login-otd,20,txk93ud48gogcp,First log-in of the day,1,3,NULL,NULL
+187,2021-03-07 15:46:14.654013,2021-03-07 15:46:14.654013,first-login-otd,20,yzr4feulmz45r8,First log-in of the day,1,105,NULL,NULL
+188,2021-03-07 15:46:49.698435,2021-03-07 15:46:49.698435,resource-access-rrtGJAd2ae1e-750dcf709f6,12,n3fxhtvaqepe5w,Accessed Resource 'Whale Movement Code',1,105,NULL,5
+189,2021-03-07 15:47:02.478662,2021-03-07 15:47:02.478662,resource-access-rrtGJAd2ae1e-286e1a92d35,12,lk5rxr79pep75z,Accessed Resource 'Session 1 Recap',1,105,NULL,5
+190,2021-03-07 15:48:06.162196,2021-03-07 15:48:06.162196,resource-access-rrtGJAd2ae1e-1ff6a63722f,12,01jo2p9t50mykj,Accessed Resource 'Asset Sprite Sheet',1,105,NULL,5
+191,2021-03-07 15:48:12.579597,2021-03-07 15:48:12.579597,resource-access-rrtGJAd2ae1e-74bc4bdc5d2,12,blpkzdq7v9dpsq,Accessed Resource 'Session 1 Recap - Write Up',1,105,NULL,5
+192,2021-03-07 15:48:50.534277,2021-03-07 15:48:50.534277,resource-access-rrtGJAd2ae1e-2874b5d897a,12,tsu53ic5q7rzpa,Accessed Resource 'Session One Whale Movement Code ',1,105,NULL,5
+193,2021-03-07 17:47:54.334710,2021-03-07 17:47:54.334710,first-login-otd,20,hrv648xckaza6t,First log-in of the day,1,1,NULL,NULL
+194,2021-03-07 19:33:32.322421,2021-03-07 19:33:32.322421,first-login-otd,20,oi4tn5up2bu9cf,First log-in of the day,1,67,NULL,NULL
+195,2021-03-08 12:10:18.436099,2021-03-08 12:10:18.436099,first-login-otd,20,vm0822o6cnqtpa,First log-in of the day,1,2,NULL,NULL
+196,2021-03-08 22:18:02.750410,2021-03-08 22:18:02.750410,rrtGJAd2ae1e-1,18,yxuxc4lxtpl0cg,Attendance for Intro to Game Dev with Unity,1,66,NULL,5
+197,2021-03-08 22:18:37.310508,2021-03-08 22:18:37.310508,rrtGJAd2ae1e-1,18,oswo61290tih18,Attendance for Intro to Game Dev with Unity,1,69,NULL,5
+198,2021-03-08 22:19:07.439918,2021-03-08 22:19:07.439918,rrtGJAd2ae1e-1,18,hdvpbj3qtn4rwy,Attendance for Intro to Game Dev with Unity,1,85,NULL,5
+199,2021-03-08 22:19:12.015857,2021-03-08 22:19:12.015857,rrtGJAd2ae1e-1,18,6pgt2somsaq3er,Attendance for Intro to Game Dev with Unity,1,87,NULL,5
+200,2021-03-08 22:19:14.099789,2021-03-08 22:19:14.099789,rrtGJAd2ae1e-1,18,db46y0asop30lx,Attendance for Intro to Game Dev with Unity,1,88,NULL,5
+201,2021-03-08 22:19:16.328269,2021-03-08 22:19:16.328269,rrtGJAd2ae1e-1,18,nbo7huujeomopi,Attendance for Intro to Game Dev with Unity,1,91,NULL,5
+202,2021-03-08 22:19:18.881572,2021-03-08 22:19:18.881572,rrtGJAd2ae1e-1,18,p5juu119xtklmg,Attendance for Intro to Game Dev with Unity,1,105,NULL,5
+204,2021-03-08 22:19:38.813463,2021-03-08 22:19:38.813463,rrtGJAd2ae1e-1,18,giwiwm3u3cznaf,Attendance for Intro to Game Dev with Unity,1,106,NULL,5
+205,2021-03-09 06:42:59.103524,2021-03-09 06:42:59.103524,first-login-otd,20,ahpf4zsh6p15na,First log-in of the day,1,1,NULL,NULL
+206,2021-03-09 06:44:39.491138,2021-03-09 06:44:39.491138,first-login-otd,20,to203ztidykwns,First log-in of the day,1,66,NULL,NULL
+207,2021-03-09 06:45:43.858983,2021-03-09 06:45:43.858983,resource-access-rrtGJAd2ae1e-286e1a92d35,12,mes43lw1pwti32,Accessed Resource 'Session 1 Recap',1,66,NULL,5
+208,2021-03-09 06:46:29.494074,2021-03-09 06:46:29.494074,resource-access-rrtGJAd2ae1e-74bc4bdc5d2,12,r6gp8cekuvn8zy,Accessed Resource 'Session 1 Recap - Write Up',1,66,NULL,5
+209,2021-03-09 06:46:56.794929,2021-03-09 06:46:56.794929,resource-access-rrtGJAd2ae1e-1a82c08473b,12,m5xanhu9xf5y59,Accessed Resource 'Session 2 - Starter Files',1,66,NULL,5
+210,2021-03-09 07:56:45.754279,2021-03-09 07:56:45.754279,resource-access-rrtGJAd2ae1e-1ff6a63722f,12,acrjte6i5ax9ge,Accessed Resource 'Asset Sprite Sheet',1,66,NULL,5
+211,2021-03-09 09:12:22.537775,2021-03-09 09:12:22.537775,resource-access-rrtGJAd2ae1e-2874b5d897a,12,k0oh5zopp70ev5,Accessed Resource 'Session One Whale Movement Code ',1,66,NULL,5
+212,2021-03-09 16:33:27.301527,2021-03-09 16:33:27.301527,first-login-otd,20,u1g4mucprn83xs,First log-in of the day,1,67,NULL,NULL
+213,2021-03-09 16:33:58.015816,2021-03-09 16:33:58.015816,resource-access-rrtGJAd2ae1e-1a82c08473b,12,hjzo4uxl7x9h1y,Accessed Resource 'Session 2 - Starter Files',1,67,NULL,5
+214,2021-03-09 18:19:30.770667,2021-03-09 18:19:30.770667,first-login-otd,20,i40gc4e4phxf56,First log-in of the day,1,2,NULL,NULL
+215,2021-03-09 18:57:03.926911,2021-03-09 18:57:03.926911,first-login-otd,20,tudobbtnkj6xtq,First log-in of the day,1,68,NULL,NULL
+216,2021-03-09 19:06:21.680961,2021-03-09 19:06:21.680961,first-login-otd,20,w4vtwhri9id0si,First log-in of the day,1,111,NULL,NULL
+217,2021-03-09 19:07:01.932360,2021-03-09 19:07:01.932360,resource-access-rrtGJAd2ae1e-286e1a92d35,12,drypcmbkztw92q,Accessed Resource 'Session 1 Recap',1,111,NULL,5
+218,2021-03-09 19:09:11.740739,2021-03-09 19:09:11.740739,first-login-otd,20,l5pty93w8hyg77,First log-in of the day,1,91,NULL,NULL
+219,2021-03-09 19:15:21.358746,2021-03-09 19:15:21.358746,first-login-otd,20,sf3ojlqshi6n5k,First log-in of the day,1,69,NULL,NULL
+220,2021-03-09 19:16:18.940051,2021-03-09 19:16:18.940051,first-login-otd,20,wmp56onxdjlsya,First log-in of the day,1,106,NULL,NULL
+221,2021-03-09 19:18:02.794213,2021-03-09 19:18:02.794213,resource-access-rrtGJAd2ae1e-1a82c08473b,12,h8r2yfmezn9lub,Accessed Resource 'Session 2 - Starter Files',1,106,NULL,5
+222,2021-03-09 19:19:24.894905,2021-03-09 19:19:24.894905,resource-access-rrtGJAd2ae1e-286e1a92d35,12,9s4djf0mv0jt3o,Accessed Resource 'Session 1 Recap',1,106,NULL,5
+223,2021-03-09 19:19:38.807803,2021-03-09 19:19:38.807803,resource-access-rrtGJAd2ae1e-1ff6a63722f,12,753q3snlzn2uyn,Accessed Resource 'Asset Sprite Sheet',1,106,NULL,5
+224,2021-03-09 19:19:39.069770,2021-03-09 19:19:39.069770,first-login-otd,20,050akfcmn3kpjj,First log-in of the day,1,88,NULL,NULL
+225,2021-03-09 19:19:57.348550,2021-03-09 19:19:57.348550,resource-access-rrtGJAd2ae1e-74bc4bdc5d2,12,g1natk98ik44km,Accessed Resource 'Session 1 Recap - Write Up',1,106,NULL,5
+226,2021-03-09 19:20:04.983408,2021-03-09 19:20:04.983408,resource-access-rrtGJAd2ae1e-2874b5d897a,12,0v3xciix17pxu0,Accessed Resource 'Session One Whale Movement Code ',1,106,NULL,5
+227,2021-03-09 19:20:44.860728,2021-03-09 19:20:44.860728,resource-access-rrtGJAd2ae1e-1a82c08473b,12,e3k97l62tpno8b,Accessed Resource 'Session 2 - Starter Files',1,111,NULL,5
+228,2021-03-09 19:23:27.814113,2021-03-09 19:23:27.814113,rrtGJAd2ae1e-2,18,mtenwcbkl0cea6,Attendance for Intro to Game Dev with Unity,1,91,NULL,5
+229,2021-03-09 19:23:38.194200,2021-03-09 19:23:38.194200,rrtGJAd2ae1e-2,18,nvo9fnpbf875zp,Attendance for Intro to Game Dev with Unity,1,68,NULL,5
+230,2021-03-09 19:23:44.794905,2021-03-09 19:23:44.794905,rrtGJAd2ae1e-2,18,gqaq1ouizg7cqu,Attendance for Intro to Game Dev with Unity,1,85,NULL,5
+231,2021-03-09 19:23:51.453844,2021-03-09 19:23:51.453844,rrtGJAd2ae1e-2,18,utxpicqtb31osh,Attendance for Intro to Game Dev with Unity,1,88,NULL,5
+232,2021-03-09 19:23:57.026120,2021-03-09 19:23:57.026120,rrtGJAd2ae1e-2,18,r305qqp6e9084p,Attendance for Intro to Game Dev with Unity,1,106,NULL,5
+233,2021-03-09 19:24:02.597547,2021-03-09 19:24:02.597547,rrtGJAd2ae1e-2,18,bv7q5j366ef6ps,Attendance for Intro to Game Dev with Unity,1,105,NULL,5
+234,2021-03-09 19:24:08.462835,2021-03-09 19:24:08.462835,rrtGJAd2ae1e-2,18,2x2w53zzzlwcjl,Attendance for Intro to Game Dev with Unity,1,66,NULL,5
+235,2021-03-09 19:31:20.239387,2021-03-09 19:31:20.239387,first-login-otd,20,u1vovyczi0nt24,First log-in of the day,1,105,NULL,NULL
+236,2021-03-09 19:31:29.966071,2021-03-09 19:31:29.966071,resource-access-rrtGJAd2ae1e-1a82c08473b,12,1em3f0anwwv2eo,Accessed Resource 'Session 2 - Starter Files',1,105,NULL,5
+237,2021-03-09 20:17:46.991205,2021-03-09 20:17:46.991205,rrtGJAd2ae1e-2,18,hkr79a03pruoa3,Attendance for Intro to Game Dev with Unity,1,69,NULL,5
+238,2021-03-10 08:07:18.750581,2021-03-10 08:07:18.750581,first-login-otd,20,blyi55bzr7iux6,First log-in of the day,1,67,NULL,NULL
+239,2021-03-10 18:54:42.851475,2021-03-10 18:54:42.851475,first-login-otd,20,gmsd4sha5z5q7a,First log-in of the day,1,110,NULL,NULL
+240,2021-03-10 18:57:57.889790,2021-03-10 18:57:57.889790,resource-access-rrtGJAd2ae1e-1a82c08473b,12,ybfygzyvc6zshk,Accessed Resource 'Session 2 - Starter Files',1,110,NULL,5
+241,2021-03-10 20:23:54.390034,2021-03-10 20:23:54.390034,first-login-otd,20,wh4tnyjrws62nk,First log-in of the day,1,2,NULL,NULL
+242,2021-03-11 14:23:22.442631,2021-03-11 14:23:22.442631,first-login-otd,20,nup4762oknwlix,First log-in of the day,1,106,NULL,NULL
+243,2021-03-11 14:23:53.966582,2021-03-11 14:23:53.966582,resource-access-rrtGJAd2ae1e-b1570001eb3,12,iz4vjmraztsk5z,Accessed Resource 'Open Game Art',1,106,NULL,5
+244,2021-03-11 14:59:17.931427,2021-03-11 14:59:17.931427,first-login-otd,20,hn08lsqq2wljxq,First log-in of the day,1,110,NULL,NULL
+245,2021-03-11 18:46:40.631462,2021-03-11 18:46:40.631462,first-login-otd,20,u9yfyvkyprlovk,First log-in of the day,1,2,NULL,NULL
+246,2021-03-12 17:11:04.664293,2021-03-12 17:11:04.664293,first-login-otd,20,t8k8jf24dr4nxz,First log-in of the day,1,2,NULL,NULL
+247,2021-03-15 18:19:26.079018,2021-03-15 18:19:26.079018,first-login-otd,20,1w1xyeu6y0iky6,First log-in of the day,1,67,NULL,NULL
+248,2021-03-15 20:12:57.879631,2021-03-15 20:12:57.879631,first-login-otd,20,qir5mcl5cewfdn,First log-in of the day,1,2,NULL,NULL
+249,2021-03-16 10:51:20.572202,2021-03-16 10:51:20.572202,first-login-otd,20,lersvmewyk6a3t,First log-in of the day,1,115,NULL,NULL
+250,2021-03-16 10:52:23.096841,2021-03-16 10:52:23.096841,resource-access-rrtGJAd2ae1e-750dcf709f6,12,7ng8wdfow7m24o,Accessed Resource 'Whale Movement Code',1,115,NULL,5
+251,2021-03-16 10:53:15.566211,2021-03-16 10:53:15.566211,resource-access-rrtGJAd2ae1e-286e1a92d35,12,yxwr47ib2x95vc,Accessed Resource 'Session 1 Recap',1,115,NULL,5
+252,2021-03-16 16:13:35.210839,2021-03-16 16:13:35.210839,first-login-otd,20,0s7cb4en86b4hq,First log-in of the day,1,67,NULL,NULL
+253,2021-03-16 16:14:57.549349,2021-03-16 16:14:57.549349,resource-access-rrtGJAd2ae1e-dd9df1d2f3c,12,7gni4iuknidubs,Accessed Resource 'Session 3 - Starter Files',1,67,NULL,5
+254,2021-03-16 18:42:45.597719,2021-03-16 18:42:45.597719,first-login-otd,20,s79al6cu6xqo0d,First log-in of the day,1,2,NULL,NULL
+255,2021-03-16 18:59:38.763669,2021-03-16 18:59:38.763669,first-login-otd,20,7y4rw2az9858yf,First log-in of the day,1,111,NULL,NULL
+256,2021-03-16 18:59:58.113752,2021-03-16 18:59:58.113752,first-login-otd,20,kc53kk1i33tlty,First log-in of the day,1,105,NULL,NULL
+257,2021-03-16 19:00:22.535435,2021-03-16 19:00:22.535435,resource-access-rrtGJAd2ae1e-dd9df1d2f3c,12,zvgflhd1ykot13,Accessed Resource 'Session 3 - Starter Files',1,105,NULL,5
+258,2021-03-16 19:09:32.183177,2021-03-16 19:09:32.183177,first-login-otd,20,akkxn7ofytdwdn,First log-in of the day,1,69,NULL,NULL
+259,2021-03-16 19:10:28.209704,2021-03-16 19:10:28.209704,first-login-otd,20,fynd1ocoiorruw,First log-in of the day,1,66,NULL,NULL
+260,2021-03-16 19:10:40.876885,2021-03-16 19:10:40.876885,resource-access-rrtGJAd2ae1e-dd9df1d2f3c,12,jw3vhne1lhq1e4,Accessed Resource 'Session 3 - Starter Files',1,66,NULL,5
+261,2021-03-16 19:10:55.845026,2021-03-16 19:10:55.845026,first-login-otd,20,6vg7ispc3c658m,First log-in of the day,1,106,NULL,NULL
+262,2021-03-16 19:11:08.031909,2021-03-16 19:11:08.031909,resource-access-rrtGJAd2ae1e-dd9df1d2f3c,12,izczubm1cztu8n,Accessed Resource 'Session 3 - Starter Files',1,106,NULL,5
+263,2021-03-16 19:13:49.182016,2021-03-16 19:13:49.182016,resource-access-rrtGJAd2ae1e-dd9df1d2f3c,12,zwtvibqw5tf7dw,Accessed Resource 'Session 3 - Starter Files',1,69,NULL,5
+264,2021-03-16 19:14:53.070774,2021-03-16 19:14:53.070774,first-login-otd,20,si56rvd1wmqekq,First log-in of the day,1,110,NULL,NULL
+265,2021-03-16 20:01:42.279613,2021-03-16 20:01:42.279613,rrtGJAd2ae1e-3,18,25fkdxkczc5xjj,Attendance for Intro to Game Dev with Unity,1,66,NULL,5
+266,2021-03-16 20:02:09.160654,2021-03-16 20:02:09.160654,rrtGJAd2ae1e-3,18,7sdx4joaifcpnz,Attendance for Intro to Game Dev with Unity,1,105,NULL,5
+267,2021-03-16 20:02:14.273810,2021-03-16 20:02:14.273810,rrtGJAd2ae1e-3,18,s7h9c08skz0n04,Attendance for Intro to Game Dev with Unity,1,106,NULL,5
+268,2021-03-16 20:02:21.702233,2021-03-16 20:02:21.702233,rrtGJAd2ae1e-3,18,se5sbfjr6we5gq,Attendance for Intro to Game Dev with Unity,1,85,NULL,5
+269,2021-03-16 20:02:24.911771,2021-03-16 20:02:24.911771,rrtGJAd2ae1e-3,18,gxemrlz9ghddnm,Attendance for Intro to Game Dev with Unity,1,69,NULL,5
+270,2021-03-16 20:02:30.954214,2021-03-16 20:02:30.954214,rrtGJAd2ae1e-3,18,26fbvijdqc6iya,Attendance for Intro to Game Dev with Unity,1,91,NULL,5
+271,2021-03-17 09:25:49.589991,2021-03-17 09:25:49.589991,first-login-otd,20,ewq3uduv1gbnfj,First log-in of the day,1,106,NULL,NULL
+272,2021-03-17 09:26:11.947102,2021-03-17 09:26:11.947102,resource-access-rrtGJAd2ae1e-918a4f912a1,12,za6j2cs3vt7gkt,Accessed Resource 'Session 2 Recap',1,106,NULL,5
+273,2021-03-18 11:01:51.202476,2021-03-18 11:01:51.202476,first-login-otd,20,j00qz2pgb00i4z,First log-in of the day,1,106,NULL,NULL
+274,2021-03-19 14:38:06.150254,2021-03-19 14:38:06.150254,first-login-otd,20,rkztvlpli7hssk,First log-in of the day,1,106,NULL,NULL
+275,2021-03-21 23:20:14.809707,2021-03-21 23:20:14.809707,first-login-otd,20,zeoe4up7299caa,First log-in of the day,1,106,NULL,NULL
+276,2021-03-22 21:52:47.982545,2021-03-22 21:52:47.982545,first-login-otd,20,ybu37swleleh5f,First log-in of the day,1,106,NULL,NULL
+277,2021-03-23 08:32:19.083622,2021-03-23 08:32:19.083622,first-login-otd,20,ef1sj8x7ywy7hu,First log-in of the day,1,106,NULL,NULL
+278,2021-03-23 18:11:49.705998,2021-03-23 18:11:49.705998,first-login-otd,20,zrw42om61nweh3,First log-in of the day,1,67,NULL,NULL
+279,2021-03-23 18:57:40.332163,2021-03-23 18:57:40.332163,first-login-otd,20,e8obecy5l212f1,First log-in of the day,1,66,NULL,NULL
+280,2021-03-23 19:00:29.619176,2021-03-23 19:00:29.619176,resource-access-rrtGJAd2ae1e-88ae2794973,12,j7lf4bytfp4k4i,Accessed Resource 'Session 4 - Starter Files',1,66,NULL,5
+281,2021-03-23 19:03:25.667604,2021-03-23 19:03:25.667604,rrtGJAd2ae1e-4,18,uuv8t0jkvohu4g,Attendance for Intro to Game Dev with Unity,1,66,NULL,5
+282,2021-03-23 19:03:28.457358,2021-03-23 19:03:28.457358,rrtGJAd2ae1e-4,18,o2o1azzzobug89,Attendance for Intro to Game Dev with Unity,1,69,NULL,5
+283,2021-03-23 19:03:42.577097,2021-03-23 19:03:42.577097,rrtGJAd2ae1e-4,18,cgxhizb51rfjap,Attendance for Intro to Game Dev with Unity,1,85,NULL,5
+284,2021-03-23 19:03:59.083202,2021-03-23 19:03:59.083202,rrtGJAd2ae1e-4,18,8g0ftdvb398tnf,Attendance for Intro to Game Dev with Unity,1,91,NULL,5
+285,2021-03-23 19:05:48.011656,2021-03-23 19:05:48.011656,first-login-otd,20,6xkjmluqtr27ol,First log-in of the day,1,69,NULL,NULL
+286,2021-03-23 19:05:50.692280,2021-03-23 19:05:50.692280,resource-access-rrtGJAd2ae1e-88ae2794973,12,6f46sb8s1jsf6v,Accessed Resource 'Session 4 - Starter Files',1,67,NULL,5
+287,2021-03-23 19:06:41.830330,2021-03-23 19:06:41.830330,resource-access-rrtGJAd2ae1e-88ae2794973,12,i9x2wyl3apyvzp,Accessed Resource 'Session 4 - Starter Files',1,69,NULL,5
+288,2021-03-23 19:06:49.510135,2021-03-23 19:06:49.510135,first-login-otd,20,2icw31rdw9vlq4,First log-in of the day,1,111,NULL,NULL
+289,2021-03-23 19:08:22.358369,2021-03-23 19:08:22.358369,first-login-otd,20,nf5hs8hn2pc4dx,First log-in of the day,1,91,NULL,NULL
+290,2021-03-23 19:09:50.694317,2021-03-23 19:09:50.694317,resource-access-rrtGJAd2ae1e-88ae2794973,12,cjtrdcgz79oyg6,Accessed Resource 'Session 4 - Starter Files',1,91,NULL,5
+291,2021-03-23 21:05:11.817618,2021-03-23 21:05:11.817618,first-login-otd,20,5ic9u7parntapr,First log-in of the day,1,2,NULL,NULL
+292,2021-03-23 21:09:32.184444,2021-03-23 21:09:32.184444,first-login-otd,20,chjqhl76sdl6xe,First log-in of the day,1,110,NULL,NULL
+293,2021-03-23 21:09:53.826897,2021-03-23 21:09:53.826897,resource-access-rrtGJAd2ae1e-286e1a92d35,12,ptv0fl52fqunay,Accessed Resource 'Session 1 Recap',1,110,NULL,5
+294,2021-03-23 21:09:59.282322,2021-03-23 21:09:59.282322,resource-access-rrtGJAd2ae1e-918a4f912a1,12,77bhnvvimgnk6q,Accessed Resource 'Session 2 Recap',1,111,NULL,5
+295,2021-03-23 21:23:19.750199,2021-03-23 21:23:19.750199,resource-access-rrtGJAd2ae1e-918a4f912a1,12,ttxwwh0nu15nq9,Accessed Resource 'Session 2 Recap',1,69,NULL,5
+296,2021-03-24 17:19:21.614401,2021-03-24 17:19:21.614401,first-login-otd,20,d1hbj8pdcx1sjg,First log-in of the day,1,2,NULL,NULL
+297,2021-03-24 20:44:58.627512,2021-03-24 20:44:58.627512,first-login-otd,20,wx7sc9bldjvfq9,First log-in of the day,1,1,NULL,NULL
+298,2021-03-24 21:02:45.039968,2021-03-24 21:02:45.039968,resource-access-rrtGJAd2ae1e-286e1a92d35,12,03b4qvblul5ceo,Accessed Resource 'Session 1 Recap',1,1,NULL,5
+299,2021-03-24 22:43:42.258457,2021-03-24 22:43:42.258457,first-login-otd,20,xkzsx20cuc2315,First log-in of the day,1,110,NULL,NULL
+300,2021-03-24 22:44:20.399393,2021-03-24 22:44:20.399393,resource-access-rrtGJAd2ae1e-918a4f912a1,12,sobkts0tm6pw1f,Accessed Resource 'Session 2 Recap',1,110,NULL,5
+301,2021-03-24 22:44:46.139037,2021-03-24 22:44:46.139037,resource-access-rrtGJAd2ae1e-5b3cf9ac46f,12,9w561ayp14hhp3,Accessed Resource 'Session 3 Recap',1,110,NULL,5
+302,2021-03-24 22:47:26.833287,2021-03-24 22:47:26.833287,resource-access-rrtGJAd2ae1e-5b3cf9ac46f,12,1dpgjfhdzvpmxk,Accessed Resource 'Session 3 Recap',1,2,NULL,5
+303,2021-03-25 11:25:05.222489,2021-03-25 11:25:05.222489,first-login-otd,20,cegviqleczo80p,First log-in of the day,1,106,NULL,NULL
+304,2021-03-25 11:25:36.862044,2021-03-25 11:25:36.862044,resource-access-rrtGJAd2ae1e-88ae2794973,12,azlmhu8j0m9vco,Accessed Resource 'Session 4 - Starter Files',1,106,NULL,5
+305,2021-03-25 11:28:19.055932,2021-03-25 11:28:19.055932,resource-access-rrtGJAd2ae1e-5b3cf9ac46f,12,svh0c8lop1lvjp,Accessed Resource 'Session 3 Recap',1,106,NULL,5
+306,2021-03-25 15:58:27.479702,2021-03-25 15:58:27.479702,first-login-otd,20,f5wefump83l7nv,First log-in of the day,1,3,NULL,NULL
+307,2021-03-25 16:00:34.772816,2021-03-25 16:00:34.772816,resource-access-BqAGbp2lEUzi-4539fc7785c,12,dqm4w3ruxcq1s8,Accessed Resource 'W3Schools',1,3,NULL,3
+308,2021-03-25 16:03:30.190749,2021-03-25 16:03:30.190749,first-login-otd,20,i2cwdhzxgteen0,First log-in of the day,1,2,NULL,NULL
+309,2021-03-25 16:09:31.153234,2021-03-25 16:09:31.153234,resource-access-rrtGJAd2ae1e-286e1a92d35,12,fdt8fxuv9svi72,Accessed Resource 'Session 1 Recap',1,3,NULL,5
+310,2021-03-25 16:09:44.842685,2021-03-25 16:09:44.842685,resource-access-rrtGJAd2ae1e-5b3cf9ac46f,12,ilcny9xcxeiaxe,Accessed Resource 'Session 3 Recap',1,3,NULL,5
+311,2021-03-26 12:12:55.892167,2021-03-26 12:12:55.892167,first-login-otd,20,27tanuhi44tzf8,First log-in of the day,1,2,NULL,NULL
+312,2021-03-28 16:01:51.562974,2021-03-28 16:01:51.562974,first-login-otd,20,f4jtxkfkdgh1ra,First log-in of the day,1,3,NULL,NULL
+313,2021-03-28 17:44:34.366631,2021-03-28 17:44:34.366631,first-login-otd,20,xt0tehiwj1kwfa,First log-in of the day,1,2,NULL,NULL
+314,2021-03-28 17:47:00.832444,2021-03-28 17:47:00.832444,first-login-otd,20,f2wfttz1jof03a,First log-in of the day,1,111,NULL,NULL
+315,2021-03-28 17:47:12.123452,2021-03-28 17:47:12.123452,first-login-otd,20,xaxm29wtu7tzcv,First log-in of the day,1,67,NULL,NULL
+316,2021-03-28 17:47:18.985917,2021-03-28 17:47:18.985917,resource-access-rrtGJAd2ae1e-74bc4bdc5d2,12,gnn2ohx6p1xrrr,Accessed Resource 'Session 1 Recap - Write Up',1,111,NULL,5
+317,2021-03-30 00:57:09.339342,2021-03-30 00:57:09.339342,first-login-otd,20,hck95dlj75ykdt,First log-in of the day,1,105,NULL,NULL
+318,2021-03-30 00:57:38.063315,2021-03-30 00:57:38.063315,resource-access-rrtGJAd2ae1e-918a4f912a1,12,9jceqbt5ys1lmb,Accessed Resource 'Session 2 Recap',1,105,NULL,5
+319,2021-03-30 01:03:37.366901,2021-03-30 01:03:37.366901,resource-access-rrtGJAd2ae1e-5b3cf9ac46f,12,euuty8pb7ym3ij,Accessed Resource 'Session 3 Recap',1,105,NULL,5
+320,2021-03-30 07:14:00.663216,2021-03-30 07:14:00.663216,first-login-otd,20,vd7qtmdegvw5re,First log-in of the day,1,67,NULL,NULL
+321,2021-03-30 07:16:57.747316,2021-03-30 07:16:57.747316,resource-access-rrtGJAd2ae1e-3aadbfd9eca,12,pgk2df27rkzbld,Accessed Resource 'Session 5 - Starter Files',1,67,NULL,5
+322,2021-03-30 09:50:09.747068,2021-03-30 09:50:09.747068,first-login-otd,20,n0vofdshauiwf3,First log-in of the day,1,2,NULL,NULL
+323,2021-03-30 10:10:26.236766,2021-03-30 10:10:26.236766,resource-access-rrtGJAd2ae1e-b4aec5f066b,12,ygtpfwrr62fz5w,Accessed Resource 'Session Four Recap',1,2,NULL,5
+324,2021-03-30 13:54:01.667563,2021-03-30 13:54:01.667563,first-login-otd,20,xiumrhjqp9il39,First log-in of the day,1,1,NULL,NULL
+325,2021-03-30 17:45:23.623109,2021-03-30 17:45:23.623109,resource-access-rrtGJAd2ae1e-b4aec5f066b,12,kuu0f76tj239ax,Accessed Resource 'Session Four Recap',1,67,NULL,5
+326,2021-03-30 17:59:41.256327,2021-03-30 17:59:41.256327,first-login-otd,20,h80d1n1so77zkc,First log-in of the day,1,111,NULL,NULL
+327,2021-03-30 17:59:53.279954,2021-03-30 17:59:53.279954,resource-access-rrtGJAd2ae1e-3aadbfd9eca,12,sgxz2km88m18u7,Accessed Resource 'Session 5 - Starter Files',1,105,NULL,5
+328,2021-03-30 18:01:20.997811,2021-03-30 18:01:20.997811,first-login-otd,20,nrlyxtrvtphdc5,First log-in of the day,1,69,NULL,NULL
+329,2021-03-30 18:02:00.419604,2021-03-30 18:02:00.419604,resource-access-rrtGJAd2ae1e-3aadbfd9eca,12,ue938ybvaavfrt,Accessed Resource 'Session 5 - Starter Files',1,69,NULL,5
+330,2021-03-30 18:02:28.460477,2021-03-30 18:02:28.460477,resource-access-rrtGJAd2ae1e-141012aa424,12,jo6zodroerf3il,Accessed Resource 'Session 5 - Assets',1,69,NULL,5
+331,2021-03-30 18:03:07.228288,2021-03-30 18:03:07.228288,resource-access-rrtGJAd2ae1e-141012aa424,12,8ctimh1qufvpfz,Accessed Resource 'Session 5 - Assets',1,111,NULL,5
+332,2021-03-30 18:04:52.022554,2021-03-30 18:04:52.022554,first-login-otd,20,xqzaasrtxfqkom,First log-in of the day,1,91,NULL,NULL
+333,2021-03-30 18:05:45.559013,2021-03-30 18:05:45.559013,rrtGJAd2ae1e-5,18,rlychisboqn1es,Attendance for Intro to Game Dev with Unity,1,69,NULL,5
+334,2021-03-30 18:05:51.177023,2021-03-30 18:05:51.177023,rrtGJAd2ae1e-5,18,h2g6dxz74iwu7b,Attendance for Intro to Game Dev with Unity,1,85,NULL,5
+335,2021-03-30 18:05:56.758673,2021-03-30 18:05:56.758673,rrtGJAd2ae1e-5,18,eftqouwvpdg9up,Attendance for Intro to Game Dev with Unity,1,91,NULL,5
+336,2021-03-30 18:06:00.051836,2021-03-30 18:06:00.051836,rrtGJAd2ae1e-5,18,zw2w99n27fdvrf,Attendance for Intro to Game Dev with Unity,1,105,NULL,5
+337,2021-03-30 18:07:55.402869,2021-03-30 18:07:55.402869,resource-access-rrtGJAd2ae1e-141012aa424,12,j5qrff4mqdyels,Accessed Resource 'Session 5 - Assets',1,91,NULL,5
+338,2021-03-30 18:08:45.774455,2021-03-30 18:08:45.774455,resource-access-rrtGJAd2ae1e-141012aa424,12,970oyfxggqajgo,Accessed Resource 'Session 5 - Assets',1,67,NULL,5
+339,2021-03-30 18:09:31.711777,2021-03-30 18:09:31.711777,resource-access-rrtGJAd2ae1e-3aadbfd9eca,12,9vs9vyxbzncb2s,Accessed Resource 'Session 5 - Starter Files',1,91,NULL,5
+340,2021-03-30 18:09:39.727954,2021-03-30 18:09:39.727954,resource-access-rrtGJAd2ae1e-141012aa424,12,auofuhcj312tj3,Accessed Resource 'Session 5 - Assets',1,105,NULL,5
+341,2021-03-30 18:10:29.841188,2021-03-30 18:10:29.841188,first-login-otd,20,a5ibt1jmp4v4d4,First log-in of the day,1,110,NULL,NULL
+342,2021-03-30 18:10:39.897749,2021-03-30 18:10:39.897749,resource-access-rrtGJAd2ae1e-141012aa424,12,r1ej98hh0sea1w,Accessed Resource 'Session 5 - Assets',1,110,NULL,5
+343,2021-03-30 19:57:58.367247,2021-03-30 19:57:58.367247,rrtGJAd2ae1e-5,18,im5umkwiok1ods,Attendance for Intro to Game Dev with Unity,1,66,NULL,5
+344,2021-04-01 05:46:28.586589,2021-04-01 05:46:28.586589,first-login-otd,20,gu0f9m04s3drx8,First log-in of the day,1,106,NULL,NULL
+345,2021-04-01 05:46:52.668138,2021-04-01 05:46:52.668138,resource-access-rrtGJAd2ae1e-141012aa424,12,3hpfya6nuyr20v,Accessed Resource 'Session 5 - Assets',1,106,NULL,5
+346,2021-04-01 05:47:27.908065,2021-04-01 05:47:27.908065,resource-access-rrtGJAd2ae1e-3aadbfd9eca,12,38i6oxmxvncob2,Accessed Resource 'Session 5 - Starter Files',1,106,NULL,5
+347,2021-04-01 05:49:45.044424,2021-04-01 05:49:45.044424,resource-access-rrtGJAd2ae1e-b4aec5f066b,12,msqys1cfn8ns17,Accessed Resource 'Session Four Recap',1,106,NULL,5
+348,2021-04-05 18:20:40.968353,2021-04-05 18:20:40.968353,first-login-otd,20,x9qxa9upv6ihd4,First log-in of the day,1,111,NULL,NULL
+349,2021-04-05 18:21:03.687214,2021-04-05 18:21:03.687214,first-login-otd,20,7woe4ma2rp39jg,First log-in of the day,1,67,NULL,NULL
+350,2021-04-06 08:52:25.631046,2021-04-06 08:52:25.631046,first-login-otd,20,s3tue0xz7lz3pk,First log-in of the day,1,67,NULL,NULL
+351,2021-04-06 16:44:45.331450,2021-04-06 16:44:45.331450,first-login-otd,20,1lkxfw3covqere,First log-in of the day,1,111,NULL,NULL
+352,2021-04-06 16:44:58.279425,2021-04-06 16:44:58.279425,resource-access-rrtGJAd2ae1e-4ff849da461,12,481tdl6uapq3zx,Accessed Resource 'Session 6 - Starter Files',1,111,NULL,5
+353,2021-04-06 17:53:22.569704,2021-04-06 17:53:22.569704,first-login-otd,20,u8fjhalhg82ts3,First log-in of the day,1,2,NULL,NULL
+354,2021-04-06 18:01:06.653453,2021-04-06 18:01:06.653453,first-login-otd,20,muhj4aamxx4fgo,First log-in of the day,1,105,NULL,NULL
+355,2021-04-06 18:01:24.124523,2021-04-06 18:01:24.124523,resource-access-rrtGJAd2ae1e-4ff849da461,12,zqdq8w265o4snh,Accessed Resource 'Session 6 - Starter Files',1,105,NULL,5
+356,2021-04-06 18:01:25.321960,2021-04-06 18:01:25.321960,rrtGJAd2ae1e-6,18,ymtsay4xyygq90,Attendance for Intro to Game Dev with Unity,1,105,NULL,5
+357,2021-04-06 18:03:15.648185,2021-04-06 18:03:15.648185,rrtGJAd2ae1e-6,18,1fx89xw1gi4j9n,Attendance for Intro to Game Dev with Unity,1,85,NULL,5
+358,2021-04-06 18:06:51.749018,2021-04-06 18:06:51.749018,resource-access-rrtGJAd2ae1e-4ff849da461,12,kji3zatp5eu8na,Accessed Resource 'Session 6 - Starter Files',1,67,NULL,5
+359,2021-04-06 18:23:25.481838,2021-04-06 18:23:25.481838,first-login-otd,20,nywhlf4ahl0h38,First log-in of the day,1,69,NULL,NULL
+360,2021-04-06 18:23:41.627579,2021-04-06 18:23:41.627579,resource-access-rrtGJAd2ae1e-4ff849da461,12,kfrcrxrxk7ut41,Accessed Resource 'Session 6 - Starter Files',1,69,NULL,5
+361,2021-04-06 19:29:02.176657,2021-04-06 19:29:02.176657,rrtGJAd2ae1e-6,18,a697vmvvdhjqrm,Attendance for Intro to Game Dev with Unity,1,66,NULL,5
+362,2021-04-06 19:29:06.658177,2021-04-06 19:29:06.658177,rrtGJAd2ae1e-6,18,kflt6aj5dh0p1i,Attendance for Intro to Game Dev with Unity,1,69,NULL,5
+363,2021-04-07 12:09:32.777077,2021-04-07 12:09:32.777077,first-login-otd,20,jghq0iisuget8e,First log-in of the day,1,2,NULL,NULL
+364,2021-04-07 12:12:28.056848,2021-04-07 12:12:28.056848,first-login-otd,20,cgwycccnu3665h,First log-in of the day,1,1,NULL,NULL
+365,2021-04-08 11:13:08.040539,2021-04-08 11:13:08.040539,first-login-otd,20,rbb8xmz110rxci,First log-in of the day,1,2,NULL,NULL
+366,2021-04-08 11:16:44.386060,2021-04-08 11:16:44.386060,resource-access-rrtGJAd2ae1e-f2ec33fafc6,12,oziawvn5e0f97s,Accessed Resource 'Session 5 Recap',1,2,NULL,5
+367,2021-04-08 12:43:10.983472,2021-04-08 12:43:10.983472,first-login-otd,20,plw5is56uwvooo,First log-in of the day,1,3,NULL,NULL
+368,2021-04-08 20:05:23.466764,2021-04-08 20:05:23.466764,resource-access-rrtGJAd2ae1e-1d9bec2ad95,12,bvyc06og5fuadi,Accessed Resource 'Session 6 Recap',1,2,NULL,5
+369,2021-04-08 20:35:22.395954,2021-04-08 20:35:22.395954,first-login-otd,20,il0mu8ppl405q4,First log-in of the day,1,111,NULL,NULL
+370,2021-04-08 21:12:35.647700,2021-04-08 21:12:35.647700,resource-access-rrtGJAd2ae1e-1d9bec2ad95,12,aqng9br2ouwc8e,Accessed Resource 'Session 6 Recap',1,111,NULL,5
+371,2021-04-09 13:42:41.613603,2021-04-09 13:42:41.613603,first-login-otd,20,iyqbenm39x1i9c,First log-in of the day,1,106,NULL,NULL
+372,2021-04-09 13:43:00.098666,2021-04-09 13:43:00.098666,resource-access-rrtGJAd2ae1e-4ff849da461,12,4cg7yu9s747yrc,Accessed Resource 'Session 6 - Starter Files',1,106,NULL,5
+373,2021-04-09 13:43:36.351552,2021-04-09 13:43:36.351552,resource-access-rrtGJAd2ae1e-1d9bec2ad95,12,jx7g83dlwglmsf,Accessed Resource 'Session 6 Recap',1,106,NULL,5
+374,2021-04-09 13:46:28.811065,2021-04-09 13:46:28.811065,resource-access-rrtGJAd2ae1e-f2ec33fafc6,12,sl6q578abpl6hj,Accessed Resource 'Session 5 Recap',1,106,NULL,5
+375,2021-04-10 12:41:38.701625,2021-04-10 12:41:38.701625,first-login-otd,20,p4vqlw387plhiw,First log-in of the day,1,2,NULL,NULL
+376,2021-04-11 12:52:10.652705,2021-04-11 12:52:10.652705,first-login-otd,20,1zp0rr5hr1tyuf,First log-in of the day,1,2,NULL,NULL
+377,2021-04-12 08:16:40.785368,2021-04-12 08:16:40.785368,first-login-otd,20,vr2886cve8dqgw,First log-in of the day,1,2,NULL,NULL
+378,2021-04-13 08:47:58.854487,2021-04-13 08:47:58.854487,first-login-otd,20,6zzlvmgha9o30p,First log-in of the day,1,2,NULL,NULL
+379,2021-04-13 17:30:11.178851,2021-04-13 17:30:11.178851,first-login-otd,20,ake4c7pt6qbwam,First log-in of the day,1,67,NULL,NULL
+380,2021-04-13 17:35:12.246809,2021-04-13 17:35:12.246809,resource-access-rrtGJAd2ae1e-1d9bec2ad95,12,ay2t95tmy1lldf,Accessed Resource 'Session 6 Recap',1,67,NULL,5
+381,2021-04-13 17:45:48.166993,2021-04-13 17:45:48.166993,first-login-otd,20,pmhhluou5w9tfj,First log-in of the day,1,111,NULL,NULL
+382,2021-04-13 17:48:23.151393,2021-04-13 17:48:23.151393,resource-access-rrtGJAd2ae1e-0274231c583,12,fqhkrynnqfflqi,Accessed Resource 'Session 7 - Starter Files',1,111,NULL,5
+383,2021-04-13 17:56:29.078872,2021-04-13 17:56:29.078872,first-login-otd,20,bcejin45gl23fl,First log-in of the day,1,69,NULL,NULL
+384,2021-04-13 17:57:03.264370,2021-04-13 17:57:03.264370,resource-access-rrtGJAd2ae1e-0274231c583,12,vkoy685cp415ld,Accessed Resource 'Session 7 - Starter Files',1,69,NULL,5
+385,2021-04-13 18:05:25.161248,2021-04-13 18:05:25.161248,rrtGJAd2ae1e-7,18,3ns5w2j079ze6y,Attendance for Intro to Game Dev with Unity,1,66,NULL,5
+386,2021-04-13 18:05:29.147268,2021-04-13 18:05:29.147268,rrtGJAd2ae1e-7,18,w447szakj2m3l3,Attendance for Intro to Game Dev with Unity,1,69,NULL,5
+387,2021-04-13 18:05:30.197039,2021-04-13 18:05:30.197039,rrtGJAd2ae1e-7,18,nanjtwj3h7kxht,Attendance for Intro to Game Dev with Unity,1,85,NULL,5
+388,2021-04-13 18:33:00.098416,2021-04-13 18:33:00.098416,rrtGJAd2ae1e-7,18,345u1ar2g4zu1j,Attendance for Intro to Game Dev with Unity,1,105,NULL,5
+389,2021-04-14 19:18:36.092091,2021-04-14 19:18:36.092091,first-login-otd,20,vbciq6co38g9kv,First log-in of the day,1,2,NULL,NULL
+390,2021-04-15 19:32:58.399344,2021-04-15 19:32:58.399344,first-login-otd,20,ugknoq61h5guq4,First log-in of the day,1,2,NULL,NULL
+391,2021-04-16 09:36:55.609835,2021-04-16 09:36:55.609835,first-login-otd,20,wodoy2m62ds3yy,First log-in of the day,1,114,NULL,NULL
+392,2021-04-16 09:52:18.054797,2021-04-16 09:52:18.054797,first-login-otd,20,c01zqss6j82yx7,First log-in of the day,1,2,NULL,NULL
+393,2021-04-17 19:13:54.931557,2021-04-17 19:13:54.931557,first-login-otd,20,54ra8wb9gh4yrt,First log-in of the day,1,2,NULL,NULL
+394,2021-04-18 13:55:41.074042,2021-04-18 13:55:41.074042,first-login-otd,20,wueete6a23lin2,First log-in of the day,1,2,NULL,NULL
+395,2021-04-19 11:38:14.965901,2021-04-19 11:38:14.965901,first-login-otd,20,juos1ypqj1t4rw,First log-in of the day,1,2,NULL,NULL
+396,2021-04-19 11:41:06.895949,2021-04-19 11:41:06.895949,first-login-otd,20,qv5bfphocigvsd,First log-in of the day,1,1,NULL,NULL
+397,2021-04-20 13:31:56.881332,2021-04-20 13:31:56.881332,first-login-otd,20,bszlac538nhtq2,First log-in of the day,1,106,NULL,NULL
+398,2021-04-20 13:32:21.460194,2021-04-20 13:32:21.460194,resource-access-rrtGJAd2ae1e-0274231c583,12,ixmv0kxq5cyzyq,Accessed Resource 'Session 7 - Starter Files',1,106,NULL,5
+399,2021-04-20 13:33:21.665318,2021-04-20 13:33:21.665318,resource-access-rrtGJAd2ae1e-f808a2f41b5,12,4inmfpmiw1rdt4,Accessed Resource 'Session 7 Recap',1,106,NULL,5
+400,2021-04-20 15:22:35.438639,2021-04-20 15:22:35.438639,first-login-otd,20,pzqixld0ocq395,First log-in of the day,1,67,NULL,NULL
+401,2021-04-20 16:50:55.522571,2021-04-20 16:50:55.522571,first-login-otd,20,a90sa4p1a57sds,First log-in of the day,1,2,NULL,NULL
+402,2021-04-20 17:55:24.945219,2021-04-20 17:55:24.945219,first-login-otd,20,dhqs2yegvm5arr,First log-in of the day,1,69,NULL,NULL
+403,2021-04-20 17:58:45.926200,2021-04-20 17:58:45.926200,resource-access-rrtGJAd2ae1e-1d14e303b59,12,hqi8i3j9xq7xud,Accessed Resource 'Session 8 - Starter Files',1,69,NULL,5
+404,2021-04-20 20:04:39.822876,2021-04-20 20:04:39.822876,rrtGJAd2ae1e-8,18,9rtv3h1bz1p7g6,Attendance for Intro to Game Dev with Unity,1,66,NULL,5
+405,2021-04-20 20:04:42.861705,2021-04-20 20:04:42.861705,rrtGJAd2ae1e-8,18,6r2vddlt69bl0m,Attendance for Intro to Game Dev with Unity,1,69,NULL,5
+406,2021-04-20 20:04:45.010898,2021-04-20 20:04:45.010898,rrtGJAd2ae1e-8,18,xe9nosy5wfw2l1,Attendance for Intro to Game Dev with Unity,1,85,NULL,5
+407,2021-04-21 08:48:01.197540,2021-04-21 08:48:01.197540,first-login-otd,20,rigcbf4w8dggtw,First log-in of the day,1,2,NULL,NULL
+408,2021-04-21 09:11:52.412527,2021-04-21 09:11:52.412527,rrtGJAd2ae1e-8,18,cd2iz43tdcryfv,Attendance for Intro to Game Dev with Unity,1,105,NULL,5
+409,2021-04-26 15:00:44.102505,2021-04-26 15:00:44.102505,first-login-otd,20,0yi8297s0d1va3,First log-in of the day,1,106,NULL,NULL
+410,2021-04-26 15:01:09.897197,2021-04-26 15:01:09.897197,resource-access-rrtGJAd2ae1e-1d14e303b59,12,fh8u1v84jiias9,Accessed Resource 'Session 8 - Starter Files',1,106,NULL,5
+411,2021-04-27 11:34:11.816409,2021-04-27 11:34:11.816409,first-login-otd,20,xj6yfsf5hxs4r5,First log-in of the day,1,2,NULL,NULL
+412,2021-04-27 15:20:39.882609,2021-04-27 15:20:39.882609,first-login-otd,20,5tjzqachlpfulh,First log-in of the day,1,66,NULL,NULL
+413,2021-04-27 15:21:18.984107,2021-04-27 15:21:18.984107,resource-access-rrtGJAd2ae1e-1d14e303b59,12,mz5frzxke7shcx,Accessed Resource 'Session 8 - Starter Files',1,66,NULL,5
+414,2021-04-27 15:57:33.813061,2021-04-27 15:57:33.813061,first-login-otd,20,3t9z01ebwp9d1c,First log-in of the day,1,67,NULL,NULL
+415,2021-04-27 16:20:15.231779,2021-04-27 16:20:15.231779,resource-access-rrtGJAd2ae1e-f808a2f41b5,12,21g4iq9fu910lq,Accessed Resource 'Session 7 Recap',1,66,NULL,5
+416,2021-04-27 16:41:25.624059,2021-04-27 16:41:25.624059,first-login-otd,20,1kkt3y8jfuht1l,First log-in of the day,1,1,NULL,NULL
+417,2021-04-27 18:05:52.616026,2021-04-27 18:05:52.616026,first-login-otd,20,ehdqg7swt1t2u5,First log-in of the day,1,69,NULL,NULL
+418,2021-04-27 19:32:34.007875,2021-04-27 19:32:34.007875,first-login-otd,20,0xek9ghkmtpf1q,First log-in of the day,1,111,NULL,NULL
+419,2021-04-27 23:58:42.658174,2021-04-27 23:58:42.658174,first-login-otd,20,tlfu8cw77p8t05,First log-in of the day,1,86,NULL,NULL
+420,2021-04-28 00:01:15.680988,2021-04-28 00:01:15.680988,resource-access-rrtGJAd2ae1e-286e1a92d35,12,64qqxpvt5usxcc,Accessed Resource 'Session 1 Recap',1,86,NULL,5
+421,2021-04-29 21:00:41.210192,2021-04-29 21:00:41.210192,first-login-otd,20,vexn3yys7mcpvd,First log-in of the day,1,2,NULL,NULL
+422,2021-04-30 11:04:33.905448,2021-04-30 11:04:33.905448,first-login-otd,20,zno6u1w8m2zsyh,First log-in of the day,1,85,NULL,NULL
+423,2021-04-30 22:53:39.118155,2021-04-30 22:53:39.118155,first-login-otd,20,41rl6ba3gg6ok9,First log-in of the day,1,2,NULL,NULL
+424,2021-05-04 10:25:12.155961,2021-05-04 10:25:12.155961,first-login-otd,20,lgllavqqhm11if,First log-in of the day,1,106,NULL,NULL
+425,2021-05-04 13:43:12.415243,2021-05-04 13:43:12.415243,first-login-otd,20,illm1cd8s85d79,First log-in of the day,1,2,NULL,NULL
+426,2021-05-04 13:54:12.543619,2021-05-04 13:54:12.543619,rrtGJAd2ae1e-9,18,99529pkrqclitj,Attendance for Intro to Game Dev with Unity,1,66,NULL,5
+427,2021-05-04 13:54:16.783022,2021-05-04 13:54:16.783022,rrtGJAd2ae1e-9,18,i4v9rucomj74b4,Attendance for Intro to Game Dev with Unity,1,69,NULL,5
+428,2021-05-04 14:10:20.413699,2021-05-04 14:10:20.413699,rrtGJAd2ae1e-9,18,v46n33rij9c6zp,Attendance for Intro to Game Dev with Unity,1,85,NULL,5
+429,2021-05-05 15:35:37.135904,2021-05-05 15:35:37.135904,first-login-otd,20,f0d7nee86r0hbi,First log-in of the day,1,1,NULL,NULL
+430,2021-05-10 00:01:59.558958,2021-05-10 00:01:59.558958,first-login-otd,20,g87cw6sj1wrcsq,First log-in of the day,1,1,NULL,NULL
+431,2021-05-12 16:50:44.258217,2021-05-12 16:50:44.258217,first-login-otd,20,trmd64kcpua109,First log-in of the day,1,2,NULL,NULL
+432,2021-05-12 17:01:54.286271,2021-05-12 17:01:54.286271,first-login-otd,20,f545bqk4hore8v,First log-in of the day,1,69,NULL,NULL
+433,2021-05-16 23:04:13.669582,2021-05-16 23:04:13.669582,first-login-otd,20,18tpo46nxqsrhz,First log-in of the day,1,1,NULL,NULL
+434,2021-05-18 19:45:24.174141,2021-05-18 19:45:24.174141,first-login-otd,20,fr40d46iswjth8,First log-in of the day,1,1,NULL,NULL
+435,2021-05-27 12:00:08.822479,2021-05-27 12:00:08.822479,first-login-otd,20,eu31jtd9bqedcg,First log-in of the day,1,1,NULL,NULL
+436,2021-06-05 13:47:43.051845,2021-06-05 13:47:43.051845,first-login-otd,20,4gslzngi0y9hmy,First log-in of the day,1,1,NULL,NULL
+437,2021-06-05 15:25:39.331583,2021-06-05 15:25:39.331583,first-login-otd,20,4gbch0c98bt3b1,First log-in of the day,1,2,NULL,NULL
+438,2021-06-07 13:02:18.856077,2021-06-07 13:02:18.856077,first-login-otd,20,zwlj6vqxlj3v9j,First log-in of the day,1,1,NULL,NULL
+439,2021-06-07 13:11:41.631071,2021-06-07 13:11:41.631071,first-login-otd,20,lk2797qhh82qpe,First log-in of the day,1,2,NULL,NULL
+440,2021-06-08 09:50:04.564046,2021-06-08 09:50:04.564046,first-login-otd,20,h3vk4w4n1vmm4t,First log-in of the day,1,1,NULL,NULL
+441,2021-06-09 11:51:05.039490,2021-06-09 11:51:05.039490,first-login-otd,20,dk5jw2xrjwrhrx,First log-in of the day,1,1,NULL,NULL
+442,2021-06-09 11:51:28.508308,2021-06-09 11:51:28.508308,first-login-otd,20,855n0h0c16w9nk,First log-in of the day,1,2,NULL,NULL
+443,2021-06-10 13:49:51.553103,2021-06-10 13:49:51.553103,first-login-otd,20,51xgu829qn54a0,First log-in of the day,1,2,NULL,NULL
+444,2021-06-11 12:06:01.451383,2021-06-11 12:06:01.451383,first-login-otd,20,poidlhwcl0mgyj,First log-in of the day,1,2,NULL,NULL
+445,2021-06-11 12:06:26.973982,2021-06-11 12:06:26.973982,first-login-otd,20,1g7mxbqgtjjjcg,First log-in of the day,1,1,NULL,NULL
+446,2021-06-12 12:11:05.715228,2021-06-12 12:11:05.715228,first-login-otd,20,3z6tmvf9yj8nf1,First log-in of the day,1,1,NULL,NULL
+447,2021-06-12 22:01:17.498433,2021-06-12 22:01:17.498433,first-login-otd,20,mchxxu7uqtpd85,First log-in of the day,1,2,NULL,NULL
+448,2021-06-15 08:28:57.149237,2021-06-15 08:28:57.149237,first-login-otd,20,ahdh2gde1q9bj2,First log-in of the day,1,2,NULL,NULL
+449,2021-06-15 21:17:18.122368,2021-06-15 21:17:18.122368,first-login-otd,20,ohk1comr89gutp,First log-in of the day,1,1,NULL,NULL
+450,2021-06-17 21:39:12.415095,2021-06-17 21:39:12.415095,first-login-otd,20,bqfghzrexacxnj,First log-in of the day,1,1,NULL,NULL
+451,2021-06-18 21:20:05.479042,2021-06-18 21:20:05.479042,first-login-otd,20,h3adq444ajtc0a,First log-in of the day,1,1,NULL,NULL
+452,2021-06-20 07:06:32.570001,2021-06-20 07:06:32.570001,first-login-otd,20,29l9wcjzs2miq5,First log-in of the day,1,105,NULL,NULL
+453,2021-06-21 10:46:14.571303,2021-06-21 10:46:14.571303,first-login-otd,20,1hatqgx77ele8c,First log-in of the day,1,1,NULL,NULL
+454,2021-06-24 15:50:01.591282,2021-06-24 15:50:01.591282,first-login-otd,20,7sxmgowmux50lo,First log-in of the day,1,1,NULL,NULL
+455,2021-06-24 16:28:43.435305,2021-06-24 16:28:43.435305,first-login-otd,20,b416rmtana26ck,First log-in of the day,1,2,NULL,NULL
+456,2021-06-30 19:51:56.358943,2021-06-30 19:51:56.358943,first-login-otd,20,as2suc2wmup2m6,First log-in of the day,1,1,NULL,NULL
+457,2021-07-01 13:35:55.273401,2021-07-01 13:35:55.273401,first-login-otd,20,9v69k58lxh01ri,First log-in of the day,1,2,NULL,NULL
+458,2021-07-01 19:56:22.589630,2021-07-01 19:56:22.589630,first-login-otd,20,lu8r1gomayp78u,First log-in of the day,1,1,NULL,NULL
+459,2021-07-02 10:23:36.013012,2021-07-02 10:23:36.013012,first-login-otd,20,hv3sk934o30eag,First log-in of the day,1,2,NULL,NULL
+460,2021-07-02 17:15:57.427625,2021-07-02 17:15:57.427625,first-login-otd,20,cae15kpa0d51r1,First log-in of the day,1,1,NULL,NULL
+461,2021-07-03 00:54:30.599322,2021-07-03 00:54:30.599322,first-login-otd,20,vru7kaprjlt84c,First log-in of the day,1,2,NULL,NULL
+462,2021-07-03 01:43:25.176926,2021-07-03 01:43:25.176926,first-login-otd,20,891d6az4v42s6m,First log-in of the day,1,2,NULL,NULL
+463,2021-07-03 09:33:14.125602,2021-07-03 09:33:14.125602,first-login-otd,20,ph1250jhyww330,First log-in of the day,1,105,NULL,NULL
+464,2021-07-03 11:37:51.602974,2021-07-03 11:37:51.602974,first-login-otd,20,0osfx1mvdfz0eo,First log-in of the day,1,1,NULL,NULL
+465,2021-07-03 16:12:08.426809,2021-07-03 16:12:08.426809,wdjs2021ts40-10,18,frq585wbzfbuaq,Attendance for Programming Fundamentals,1,105,NULL,9
+466,2021-07-03 16:12:15.113465,2021-07-03 16:12:15.113465,wdjs2021ts40-10,18,grz2wt9228zpfo,Attendance for Programming Fundamentals,1,122,NULL,9
+467,2021-07-03 16:12:23.109865,2021-07-03 16:12:23.109865,wdjs2021ts40-10,18,ai87qy5c46809c,Attendance for Programming Fundamentals,1,125,NULL,9
+468,2021-07-03 16:15:01.062586,2021-07-03 16:15:01.062586,wdjs2021ts40-10,18,s55y1oodl3fyx3,Attendance for Programming Fundamentals,1,66,NULL,9
+469,2021-07-04 19:11:34.643938,2021-07-04 19:11:34.643938,first-login-otd,20,7noisnuw7p17sl,First log-in of the day,1,2,NULL,NULL
+470,2021-07-04 20:40:40.261853,2021-07-04 20:40:40.261853,first-login-otd,20,o4fbd2yb8eujz5,First log-in of the day,1,54,NULL,NULL
+471,2021-07-05 10:53:34.736956,2021-07-05 10:53:34.736956,first-login-otd,20,f91w6w05mg3gf6,First log-in of the day,1,54,NULL,NULL
+472,2021-07-05 11:56:59.906129,2021-07-05 11:56:59.906129,first-login-otd,20,5bpshhqi5nwv34,First log-in of the day,1,2,NULL,NULL
+473,2021-07-06 17:46:28.665531,2021-07-06 17:46:28.665531,first-login-otd,20,co5g2n3yn4p485,First log-in of the day,1,2,NULL,NULL
+474,2021-07-06 20:22:50.794848,2021-07-06 20:22:50.794848,first-login-otd,20,linjjk0fqnweh7,First log-in of the day,1,54,NULL,NULL
+475,2021-07-12 18:19:25.167208,2021-07-12 18:19:25.167208,first-login-otd,20,u5k4fvukl52xmv,First log-in of the day,1,2,NULL,NULL
+476,2021-07-12 18:23:50.106941,2021-07-12 18:23:50.106941,first-login-otd,20,ocfrkhz0to36gv,First log-in of the day,1,130,NULL,NULL
+477,2021-07-12 20:54:53.862926,2021-07-12 20:54:53.862926,first-login-otd,20,zd7p93s7n61y43,First log-in of the day,1,1,NULL,NULL
+478,2021-07-12 23:06:57.755366,2021-07-12 23:06:57.755366,first-login-otd,20,brnmdavzeo1as3,First log-in of the day,1,105,NULL,NULL
+479,2021-07-13 11:11:36.805356,2021-07-13 11:11:36.805356,first-login-otd,20,7295y3tdkfa9im,First log-in of the day,1,130,NULL,NULL
+480,2021-07-13 14:42:38.067105,2021-07-13 14:42:38.067105,first-login-otd,20,kle8re8t7gx8rq,First log-in of the day,1,1,NULL,NULL
+481,2021-07-13 18:35:27.883197,2021-07-13 18:35:27.883197,first-login-otd,20,qdj5621mt8pkcb,First log-in of the day,1,2,NULL,NULL
+482,2021-07-14 09:27:50.597502,2021-07-14 09:27:50.597502,first-login-otd,20,gk1aya0q65zqvk,First log-in of the day,1,131,NULL,NULL
+483,2021-07-14 10:28:31.447469,2021-07-14 10:28:31.447469,first-login-otd,20,gail9g4pdb3lz1,First log-in of the day,1,130,NULL,NULL
+484,2021-07-14 21:46:39.478504,2021-07-14 21:46:39.478504,first-login-otd,20,7gffr8h7pwt7s0,First log-in of the day,1,1,NULL,NULL
+485,2021-07-15 19:52:42.961084,2021-07-15 19:52:42.961084,first-login-otd,20,k349tnywokpm4e,First log-in of the day,1,1,NULL,NULL
+486,2021-07-15 20:25:45.078035,2021-07-15 20:25:45.078035,first-login-otd,20,014oh0dwx168dg,First log-in of the day,1,130,NULL,NULL
+487,2021-07-16 12:48:56.472150,2021-07-16 12:48:56.472150,first-login-otd,20,s2rmxtji5j34y8,First log-in of the day,1,130,NULL,NULL
+488,2021-07-17 13:02:34.343697,2021-07-17 13:02:34.343697,first-login-otd,20,ge2fr6l2q2x3in,First log-in of the day,1,1,NULL,NULL
+489,2021-07-18 17:42:27.034876,2021-07-18 17:42:27.034876,first-login-otd,20,tdykulz21tvsq9,First log-in of the day,1,1,NULL,NULL
+490,2021-07-18 19:24:06.643314,2021-07-18 19:24:06.643314,first-login-otd,20,g4jm8ih6w8xbay,First log-in of the day,1,130,NULL,NULL
+491,2021-07-19 09:43:42.396394,2021-07-19 09:43:42.396394,first-login-otd,20,r438w8cuj19srk,First log-in of the day,1,1,NULL,NULL
+492,2021-07-20 09:21:51.215584,2021-07-20 09:21:51.215584,first-login-otd,20,q6mfkf3h68axpp,First log-in of the day,1,1,NULL,NULL
+493,2021-07-21 13:11:45.877696,2021-07-21 13:11:45.877696,first-login-otd,20,j32mxtb2mlywwk,First log-in of the day,1,1,NULL,NULL
+494,2021-07-22 10:51:37.302999,2021-07-22 10:51:37.302999,first-login-otd,20,7aobzcln6eob7g,First log-in of the day,1,130,NULL,NULL
+495,2021-07-22 15:00:22.080468,2021-07-22 15:00:22.080468,first-login-otd,20,9spurxau4c6vcq,First log-in of the day,1,1,NULL,NULL
+496,2021-07-22 23:26:55.431303,2021-07-22 23:26:55.431303,first-login-otd,20,f29aqqyl1hmc35,First log-in of the day,1,2,NULL,NULL
+497,2021-07-23 16:17:57.013140,2021-07-23 16:17:57.013140,first-login-otd,20,6icchenqmj8bs1,First log-in of the day,1,2,NULL,NULL
+498,2021-07-23 16:31:36.632673,2021-07-23 16:31:36.632673,first-login-otd,20,wesxi5pdy5wc1w,First log-in of the day,1,130,NULL,NULL
+499,2021-07-24 18:00:56.600504,2021-07-24 18:00:56.600504,first-login-otd,20,715mv24hr8tm98,First log-in of the day,1,2,NULL,NULL
+500,2021-07-24 20:11:41.468834,2021-07-24 20:11:41.468834,first-login-otd,20,7a1us60rloxm6h,First log-in of the day,1,130,NULL,NULL
+501,2021-07-26 16:22:55.500956,2021-07-26 16:22:55.500956,first-login-otd,20,9q67sto5fsso10,First log-in of the day,1,2,NULL,NULL
+502,2021-07-26 17:45:07.179984,2021-07-26 17:45:07.179984,first-login-otd,20,e1qprzsqc8a2ls,First log-in of the day,1,1,NULL,NULL
+503,2021-07-26 18:08:10.613102,2021-07-26 18:08:10.613102,first-login-otd,20,hpqyo055lp6m1q,First log-in of the day,1,130,NULL,NULL
+504,2021-07-30 11:47:18.374646,2021-07-30 11:47:18.374646,first-login-otd,20,4b2e3rn38opx0l,First log-in of the day,1,2,NULL,NULL
+505,2021-11-09 17:35:49.963475,2021-11-09 17:35:49.963475,first-login-otd,20,ipkw37ag6a76br,First log-in of the day,1,2,NULL,NULL
+506,2021-11-12 17:20:07.343701,2021-11-12 17:20:07.343701,first-login-otd,20,vm2di0m13dxxnu,First log-in of the day,1,2,NULL,NULL
+507,2021-11-15 16:41:38.922686,2021-11-15 16:41:38.922686,first-login-otd,20,iodytgx08uddvu,First log-in of the day,1,2,NULL,NULL
+508,2021-11-19 18:19:50.968048,2021-11-19 18:19:50.968048,first-login-otd,20,fydhrn25bma72w,First log-in of the day,1,2,NULL,NULL
+509,2021-11-23 18:49:36.595075,2021-11-23 18:49:36.595075,first-login-otd,20,1hh6b2c1jlyl8w,First log-in of the day,1,2,NULL,NULL
+510,2021-11-24 17:05:09.573784,2021-11-24 17:05:09.573784,first-login-otd,20,hipla0tswneop8,First log-in of the day,1,2,NULL,NULL
+511,2021-11-29 12:56:09.468586,2021-11-29 12:56:09.468586,first-login-otd,20,wi33ahpms8sazy,First log-in of the day,1,2,NULL,NULL
+512,2021-11-29 15:50:54.100533,2021-11-29 15:50:54.000000,granted-by-instructor,10,vhm1bsdwds36je,test,1,54,2,8
+513,2021-12-11 13:14:06.411626,2021-12-11 13:14:06.411626,first-login-otd,20,of2e723wpuywkm,First log-in of the day,1,2,NULL,NULL
+514,2022-01-12 20:49:23.444986,2022-01-12 20:49:23.444986,first-login-otd,20,ib6wj3gdwvb9ku,First log-in of the day,1,2,NULL,NULL
+515,2022-02-09 16:44:44.246970,2022-02-09 16:44:44.246970,first-login-otd,20,vjzu3up3vtuy5x,First log-in of the day,1,2,NULL,NULL
+516,2022-02-24 09:35:21.010803,2022-02-24 09:35:21.010803,first-login-otd,20,cxhj541ic7rsjz,First log-in of the day,1,1,NULL,NULL
+517,2022-02-24 09:39:30.731129,2022-02-24 09:39:30.731129,first-login-otd,20,t8q3fzkcv2lxi3,First log-in of the day,1,2,NULL,NULL
+518,2022-03-07 02:13:51.585097,2022-03-07 02:13:51.585097,first-login-otd,20,iwe4tjw5b0y36s,First log-in of the day,1,2,NULL,NULL
+519,2022-03-09 20:13:30.713507,2022-03-09 20:13:30.713507,first-login-otd,20,ojb6is1o3u5nww,First log-in of the day,1,2,NULL,NULL
+520,2022-04-20 18:28:57.911223,2022-04-20 18:28:57.911223,first-login-otd,20,x0b4gdiz67n9t5,First log-in of the day,1,2,NULL,NULL
+521,2022-04-21 10:17:51.918749,2022-04-21 10:17:51.918749,first-login-otd,20,o29su3dzzskpvw,First log-in of the day,1,2,NULL,NULL

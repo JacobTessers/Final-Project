@@ -1,0 +1,215 @@
+id,created_at,updated_at,questionId,userId,value
+38,2021-01-11 21:16:51.100684,2021-01-11 21:16:51.000000,48,66,Nottingham
+39,2021-01-11 21:16:51.102631,2021-01-11 21:16:51.000000,37,66,26-35
+40,2021-01-11 21:16:51.104865,2021-01-11 21:16:51.000000,39,66,her
+41,2021-01-11 21:16:51.106212,2021-01-11 21:16:51.000000,41,66,March 2020
+42,2021-01-11 21:16:51.107414,2021-01-11 21:16:51.000000,40,66,No
+43,2021-01-11 21:16:51.109912,2021-01-11 21:16:51.000000,42,66,No
+44,2021-01-11 21:16:51.111151,2021-01-11 21:16:51.000000,43,66,No
+45,2021-01-11 21:16:51.112364,2021-01-11 21:16:51.000000,44,66,No specific company admired
+46,2021-01-11 21:16:51.113573,2021-01-11 21:16:51.000000,45,66,Gain a skill of developing games.
+47,2021-01-11 21:16:51.114783,2021-01-11 21:16:51.000000,46,66,Work on the knowledge gained and practise it.
+48,2021-01-11 21:16:51.115897,2021-01-11 21:16:51.000000,47,66,Yes
+49,2021-01-12 11:51:08.044372,2021-01-12 11:51:08.000000,48,68,Nottingham
+50,2021-01-12 11:51:08.046513,2021-01-12 11:51:08.000000,37,68,26-35
+51,2021-01-12 11:51:08.047852,2021-01-12 11:51:08.000000,39,68,Student
+52,2021-01-12 11:51:08.050063,2021-01-12 11:51:08.000000,38,68,on
+53,2021-01-12 11:51:08.051956,2021-01-12 11:51:08.000000,41,68,2020
+54,2021-01-12 11:51:08.055120,2021-01-12 11:51:08.000000,40,68,No
+55,2021-01-12 11:51:08.056403,2021-01-12 11:51:08.000000,42,68,No
+56,2021-01-12 11:51:08.057713,2021-01-12 11:51:08.000000,43,68,No
+57,2021-01-12 11:51:08.060345,2021-01-12 11:51:08.000000,44,68,SpaceX because it is based on research and innovation and exploring the unknown. This is also first private organisation exploring the space.
+58,2021-01-12 11:51:08.061594,2021-01-12 11:51:08.000000,45,68,To learn to develop games and create my own games.
+59,2021-01-12 11:51:08.062788,2021-01-12 11:51:08.000000,46,68,I will use the skills to create my own games and app for the same.
+60,2021-01-12 11:51:08.063910,2021-01-12 11:51:08.000000,47,68,Yes
+61,2021-01-13 14:54:32.715718,2021-01-13 14:54:32.000000,48,69,London
+62,2021-01-13 14:54:32.723238,2021-01-13 14:54:32.000000,37,69,18-25
+63,2021-01-13 14:54:32.724582,2021-01-13 14:54:32.000000,39,69,Female 
+64,2021-01-13 14:54:32.727422,2021-01-13 14:54:32.000000,41,69,n/a
+65,2021-01-13 14:54:32.728888,2021-01-13 14:54:32.000000,40,69,No but I am super interested in getting involved and learning. I am self taught HTML CSS and JS and happy to learn more especially how to make games.  
+66,2021-01-13 14:54:32.732087,2021-01-13 14:54:32.000000,42,69,No
+67,2021-01-13 14:54:32.733285,2021-01-13 14:54:32.000000,43,69,No - Found out about this through Slack 
+68,2021-01-13 14:54:32.734404,2021-01-13 14:54:32.000000,44,69,Google as it has the biggest and most dominant presence and has the capability to offer lot of new technology.
+69,2021-01-13 14:54:32.735534,2021-01-13 14:54:32.000000,45,69,To upskill myself and learn how to make games. I do not know of any females that develop any games and would really like to change this and help encourage diversity of gamers.
+70,2021-01-13 14:54:32.736654,2021-01-13 14:54:32.000000,46,69,Keep practising and hopefully get a job within the gaming industry. Prove that females can also work in this field. 
+71,2021-01-13 14:54:32.737786,2021-01-13 14:54:32.000000,47,69,Yes
+83,2021-02-05 11:26:32.333648,2021-02-05 11:26:32.000000,48,81,Nottingham
+84,2021-02-05 11:26:32.335393,2021-02-05 11:26:32.000000,37,81,18-25
+85,2021-02-05 11:26:32.336506,2021-02-05 11:26:32.000000,39,81,Male
+86,2021-02-05 11:26:32.337545,2021-02-05 11:26:32.000000,41,81,Graduate
+87,2021-02-05 11:26:32.338558,2021-02-05 11:26:32.000000,40,81,No
+88,2021-02-05 11:26:32.339674,2021-02-05 11:26:32.000000,42,81,N/A
+89,2021-02-05 11:26:32.340655,2021-02-05 11:26:32.000000,43,81,N/A
+90,2021-02-05 11:26:32.350244,2021-02-05 11:26:32.000000,44,81,"Square Enix, I have always been a fan of this video game company as I have been a huge fan of the Final Fantasy series for its mix of visuals, narrative driven stories and music."
+91,2021-02-05 11:26:32.351528,2021-02-05 11:26:32.000000,45,81,Confidence
+92,2021-02-05 11:26:32.352589,2021-02-05 11:26:32.000000,46,81,Create 3D renders or my own video game
+93,2021-02-05 11:26:32.353620,2021-02-05 11:26:32.000000,47,81,Yes
+94,2021-02-05 11:59:55.773711,2021-02-05 11:59:55.000000,48,82,Derby
+95,2021-02-05 11:59:55.775735,2021-02-05 11:59:55.000000,37,82,26-35
+96,2021-02-05 11:59:55.777043,2021-02-05 11:59:55.000000,39,82,[[REDACTED]]
+97,2021-02-05 11:59:55.778298,2021-02-05 11:59:55.000000,40,82,Not since teaching my students how to use Scratch. Although I am learning how to code.
+98,2021-02-05 11:59:55.781128,2021-02-05 11:59:55.000000,42,82,No. But I excited to take part in one. I grew up thinking games were my brother's domain. It's only recently I got my own console and have be playing over the internet with others.
+99,2021-02-05 11:59:55.782363,2021-02-05 11:59:55.000000,43,82,No
+100,2021-02-05 11:59:55.783615,2021-02-05 11:59:55.000000,44,82,"Project red, I like the level of detail and care they have put into their games, how they have catered to fans while still maintaining their own vision."
+101,2021-02-05 11:59:55.784790,2021-02-05 11:59:55.000000,45,82,I would like to gain a firm grasp of the foundations of game development as I look into a career change into tech.
+102,2021-02-05 11:59:55.786884,2021-02-05 11:59:55.000000,46,82,"I am looking to change career from education into development and I want to explore which avenue suit my skills and interests best. Im a big believer in empowering others, so whatever I learn, I want to be able to share to give people opportunities they wouldn't have before."
+103,2021-02-05 11:59:55.788093,2021-02-05 11:59:55.000000,47,82,Yes
+115,2021-02-09 01:33:07.561338,2021-02-09 01:33:07.000000,48,86,Singapore 
+116,2021-02-09 01:33:07.564142,2021-02-09 01:33:07.000000,37,86,36+
+117,2021-02-09 01:33:07.565358,2021-02-09 01:33:07.000000,39,86,[[REDACTED]]
+118,2021-02-09 01:33:07.566504,2021-02-09 01:33:07.000000,40,86,Yes
+119,2021-02-09 01:33:07.567633,2021-02-09 01:33:07.000000,42,86,No
+120,2021-02-09 01:33:07.568741,2021-02-09 01:33:07.000000,43,86,No
+121,2021-02-09 01:33:07.569852,2021-02-09 01:33:07.000000,44,86,Not sure
+122,2021-02-09 01:33:07.573413,2021-02-09 01:33:07.000000,45,86,Understand how to develop game using Unity.
+123,2021-02-09 01:33:07.574563,2021-02-09 01:33:07.000000,46,86,Try out some game development 
+124,2021-02-09 01:33:07.577514,2021-02-09 01:33:07.000000,47,86,Yes
+125,2021-02-09 09:01:41.091884,2021-02-09 09:01:42.000000,48,87,Leicester
+126,2021-02-09 09:01:41.338196,2021-02-09 09:01:42.000000,37,87,18-25
+127,2021-02-09 09:01:41.459521,2021-02-09 09:01:42.000000,39,87,"Female, Straight"
+128,2021-02-09 09:01:41.598107,2021-02-09 09:01:42.000000,40,87,"No I haven’t, I had a game module at uni for this but I was very intimidated by being the only woman so I didn’t take advantage of it"
+129,2021-02-09 09:01:41.816436,2021-02-09 09:01:42.000000,42,87,"No, I don’t know what that is but it sounds great!"
+130,2021-02-09 09:01:41.930585,2021-02-09 09:01:42.000000,43,87,I haven’t
+131,2021-02-09 09:01:41.936932,2021-02-09 09:01:42.000000,44,87,"I love most game development companies - I think the blend of art, programming and creativity to make people feel anything is amazing!"
+132,2021-02-09 09:01:41.938267,2021-02-09 09:01:42.000000,45,87,I’d like to gain a basic understanding of using unity
+133,2021-02-09 09:01:41.939360,2021-02-09 09:01:42.000000,46,87,Try making some games in my free time
+134,2021-02-09 09:01:41.940428,2021-02-09 09:01:42.000000,47,87,Yes
+135,2021-02-09 13:58:16.202023,2021-02-09 13:58:16.000000,48,88,Birmingham
+136,2021-02-09 13:58:16.203855,2021-02-09 13:58:16.000000,37,88,26-35
+137,2021-02-09 13:58:16.205044,2021-02-09 13:58:16.000000,39,88,Male
+138,2021-02-09 13:58:16.208792,2021-02-09 13:58:16.000000,41,88,N/A
+139,2021-02-09 13:58:16.209903,2021-02-09 13:58:16.000000,40,88,"I have coded the card game 'Love Letter' in JS, and also built a real-time, physics-based multiplayer browser game using websockets (https://soc-wars-working-dev.netlify.app/) - this was a 4 person group project made as part of learning to code for the first time. Only somewhat related, but I also co-host the video games podcast Pixel Vison (https://www.pixelvision.net/ - site also by me)"
+140,2021-02-09 13:58:16.212632,2021-02-09 13:58:16.000000,42,88,"No, but I've always wanted to!"
+141,2021-02-09 13:58:16.213709,2021-02-09 13:58:16.000000,43,88,"I started this course: https://www.coursera.org/learn/introduction-programming-unity but did not complete it, despite finishing 80% of the modules. I thought it was slightly below my skill level in terms of programming concepts (it was aimed at people who have never programmed before). It was also difficult to motivate myself without a cohort to work towards a goal with."
+142,2021-02-09 13:58:16.214794,2021-02-09 13:58:16.000000,44,88,"There are loads of indie game developers that I really admire. I love Lucus Pope's games (I'm not sure if you would consider him a one person tech company!), as well as Concerned Ape - the person behind Stardew Valley. Whenever I come across a small team of game devs that have managed to make an amazing game with very few resources, it just really makes me want to do the something similar. Whilst precarious, small studios are a great antidote to crunch and big budget production environments."
+143,2021-02-09 13:58:16.215880,2021-02-09 13:58:16.000000,45,88,To have made a game to and to more deeply understand to to approach making a game from scratch.
+144,2021-02-09 13:58:16.216971,2021-02-09 13:58:16.000000,46,88,"I would like to learn the principles of game development in C# and Unity, so that I can feel confident pursuing other group projects independently. I would also eventually like to teach games development at my current workplace (School of Code), and this seems like a perfect way to begin learning the skills I would need to do that."
+145,2021-02-09 13:58:16.217981,2021-02-09 13:58:16.000000,47,88,Yes
+146,2021-02-11 13:32:23.214652,2021-02-11 13:32:23.000000,48,91,Birmingham
+147,2021-02-11 13:32:23.217826,2021-02-11 13:32:23.000000,37,91,36+
+148,2021-02-11 13:32:23.219282,2021-02-11 13:32:23.000000,39,91,[[REDACTED]]
+149,2021-02-11 13:32:23.220654,2021-02-11 13:32:23.000000,40,91,no
+150,2021-02-11 13:32:23.222037,2021-02-11 13:32:23.000000,42,91,no
+151,2021-02-11 13:32:23.223296,2021-02-11 13:32:23.000000,43,91,no
+152,2021-02-11 13:32:23.224601,2021-02-11 13:32:23.000000,44,91,I generally admire the companies that Elon Musk established as they are very innovative and creating technologies that are efficient and help the world to be a better place. 
+153,2021-02-11 13:32:23.225847,2021-02-11 13:32:23.000000,45,91,I would like to have a solid understanding how games are created in Unity.
+154,2021-02-11 13:32:23.227008,2021-02-11 13:32:23.000000,46,91,If I can work in a game developer company. 
+155,2021-02-11 13:32:23.228170,2021-02-11 13:32:23.000000,47,91,Yes
+156,2021-02-12 07:59:12.804777,2021-02-12 07:59:13.000000,48,92,Worthing UK
+157,2021-02-12 07:59:12.807881,2021-02-12 07:59:13.000000,37,92,36+
+158,2021-02-12 07:59:12.809346,2021-02-12 07:59:13.000000,39,92,Male
+159,2021-02-12 07:59:12.810729,2021-02-12 07:59:13.000000,40,92,Once. Using XNA. It was a hobby project. 
+160,2021-02-12 07:59:12.812077,2021-02-12 07:59:13.000000,42,92,I haven't. 
+161,2021-02-12 07:59:12.814259,2021-02-12 07:59:13.000000,43,92,No I haven't. 
+162,2021-02-12 07:59:12.815471,2021-02-12 07:59:13.000000,44,92,Microsoft. How they have transformed themselves from a goliath to an open source unicorn is tremendous. Plus I love the Microsoft stacks. 
+163,2021-02-12 07:59:12.816719,2021-02-12 07:59:13.000000,45,92,Actually understand some core principles of game development using unity. 
+164,2021-02-12 07:59:12.817893,2021-02-12 07:59:13.000000,46,92,Make a small 2D game. 
+165,2021-02-12 07:59:12.819089,2021-02-12 07:59:13.000000,47,92,Unsure
+178,2021-02-22 19:37:28.735333,2021-02-22 19:37:29.000000,48,105,Bremen
+179,2021-02-22 19:37:28.754678,2021-02-22 19:37:29.000000,37,105,26-35
+180,2021-02-22 19:37:28.767991,2021-02-22 19:37:29.000000,39,105,She
+181,2021-02-22 19:37:28.779519,2021-02-22 19:37:29.000000,40,105,No
+182,2021-02-22 19:37:28.790140,2021-02-22 19:37:29.000000,42,105,No
+183,2021-02-22 19:37:28.798127,2021-02-22 19:37:29.000000,43,105,No
+184,2021-02-22 19:37:28.810624,2021-02-22 19:37:29.000000,44,105,Apple
+185,2021-02-22 19:37:28.822159,2021-02-22 19:37:29.000000,47,105,Unsure
+186,2021-02-25 17:34:37.813081,2021-02-25 17:34:38.000000,48,106,Nottingham
+187,2021-02-25 17:34:37.815478,2021-02-25 17:34:38.000000,37,106,36+
+188,2021-02-25 17:34:37.817050,2021-02-25 17:34:38.000000,39,106,male
+189,2021-02-25 17:34:37.818483,2021-02-25 17:34:38.000000,40,106,No but I've messed with game engines and mod tools I also make 3D stuff in Rhino 3D software but mostly I'm just a beginner. 
+190,2021-02-25 17:34:37.820902,2021-02-25 17:34:38.000000,42,106,No!!
+191,2021-02-25 17:34:37.822211,2021-02-25 17:34:38.000000,43,106,No!!
+192,2021-02-25 17:34:37.823618,2021-02-25 17:34:38.000000,44,106,"No particular the company but the people that runs it, I would have to say AMD I'm a big fun of Dr Lisa Su not only she's a CEO but she's an electronic engineer, she understands the technology better than any other CEO out there."
+193,2021-02-25 17:34:37.824898,2021-02-25 17:34:38.000000,45,106,"I love to learn about games, I've been a gamer all my life but I actually would love to make a game one day or maybe work in the games industry."
+194,2021-02-25 17:34:37.826183,2021-02-25 17:34:38.000000,46,106,Maybe make a game or try to get a job in the games industry.
+195,2021-02-25 17:34:37.827402,2021-02-25 17:34:38.000000,47,106,Yes
+196,2021-03-01 16:24:41.958991,2021-03-01 16:24:42.000000,48,85,London
+197,2021-03-01 16:24:41.960861,2021-03-01 16:24:42.000000,37,85,<18
+198,2021-03-01 16:24:41.962151,2021-03-01 16:24:42.000000,39,85,Male
+199,2021-03-01 16:24:41.963578,2021-03-01 16:24:42.000000,38,85,on
+200,2021-03-01 16:24:41.964816,2021-03-01 16:24:42.000000,41,85,Currently studying GCSES. Will finish 2022
+201,2021-03-01 16:24:41.966242,2021-03-01 16:24:42.000000,40,85,No 
+202,2021-03-01 16:24:41.967459,2021-03-01 16:24:42.000000,42,85,no
+203,2021-03-01 16:24:41.968701,2021-03-01 16:24:42.000000,43,85,no
+204,2021-03-01 16:24:41.970034,2021-03-01 16:24:42.000000,44,85,"I admire Google the most since it can respond to its environment very quickly and as a result they have grown exponentially. In terms of game development, they have invested a lot of resources and research to innovate in their VR and AR department. They power majority of the world and ensure that there is hyper connectivity across communities. Aside from this, their growth is just beginning and they have much more to offer. The way they innovate is truly admirable. "
+205,2021-03-01 16:24:41.971301,2021-03-01 16:24:42.000000,45,85,I would like to create a game and understand the ins and outs of it. I feel that this will be the perfect platform to grow my computing skills.
+206,2021-03-01 16:24:41.972553,2021-03-01 16:24:42.000000,46,85,I would continue to take more game development projects in my spare time and hone my skills for the better
+207,2021-03-01 16:24:41.973833,2021-03-01 16:24:42.000000,47,85,Yes
+221,2021-06-09 11:53:19.294920,2021-06-09 11:53:19.000000,50,120,riz-test
+222,2021-06-09 11:53:19.319595,2021-06-09 11:53:19.000000,51,120,riz-test
+223,2021-06-09 11:53:19.339457,2021-06-09 11:53:19.000000,52,120,riz-test
+224,2021-06-09 11:53:19.354839,2021-06-09 11:53:19.000000,53,120,Yes
+225,2021-06-09 11:53:19.362422,2021-06-09 11:53:19.000000,54,120,Yes
+226,2021-06-09 11:53:19.379398,2021-06-09 11:53:19.000000,55,120,riz-test
+227,2021-06-10 21:16:17.981493,2021-06-10 21:16:18.000000,50,121,Broughton
+228,2021-06-10 21:16:17.983747,2021-06-10 21:16:18.000000,51,121,"Fairly comfortable with basic python, able to complete a project with lots of googling."
+229,2021-06-10 21:16:17.985835,2021-06-10 21:16:18.000000,52,121,Try to build a really basic project to develop my skills and take another course.
+230,2021-06-10 21:16:17.987716,2021-06-10 21:16:18.000000,53,121,Yes
+231,2021-06-10 21:16:17.989276,2021-06-10 21:16:18.000000,54,121,Yes
+232,2021-06-12 18:58:19.177300,2021-06-12 18:58:19.000000,50,122,Female - she/her
+233,2021-06-12 18:58:19.180466,2021-06-12 18:58:19.000000,51,122,"No, so I’m really excited by the prospect of gaining experience through this nano course."
+234,2021-06-12 18:58:19.182805,2021-06-12 18:58:19.000000,52,122,Build on my newly developed skills and seek out other opportunities to learn more. I’m aiming to pursue a career in tech and hope that this course will give me the confidence to fulfil this endeavour.
+235,2021-06-12 18:58:19.184770,2021-06-12 18:58:19.000000,53,122,Yes
+236,2021-06-12 18:58:19.188930,2021-06-12 18:58:19.000000,54,122,Yes
+237,2021-06-15 21:10:42.730053,2021-06-15 21:10:42.000000,49,123,on
+238,2021-06-15 21:10:42.742813,2021-06-15 21:10:42.000000,50,123,Beginner
+239,2021-06-15 21:10:42.755192,2021-06-15 21:10:42.000000,51,123,Python and c++
+240,2021-06-15 21:10:42.757967,2021-06-15 21:10:42.000000,52,123,Build on it by doing more projects
+241,2021-06-15 21:10:42.760363,2021-06-15 21:10:42.000000,53,123,Unsure
+242,2021-06-15 21:10:42.769657,2021-06-15 21:10:42.000000,54,123,Yes
+243,2021-06-15 21:10:42.772662,2021-06-15 21:10:42.000000,55,123,[[REDACTED]]
+244,2021-06-18 17:09:56.724052,2021-06-18 17:09:56.000000,49,124,on
+245,2021-06-18 17:09:56.731002,2021-06-18 17:09:56.000000,50,124,[[REDACTED]]
+246,2021-06-18 17:09:56.732902,2021-06-18 17:09:56.000000,51,124,I have some experience. I have been learning myself for around a year but have had no luck finding work yet. You can see some of it here : www.[[REDACTED]].co.uk
+247,2021-06-18 17:09:56.734744,2021-06-18 17:09:56.000000,52,124,Continue learning and having fun and gain employment in the field in the future.
+248,2021-06-18 17:09:56.740265,2021-06-18 17:09:56.000000,53,124,Yes
+249,2021-06-18 17:09:56.742757,2021-06-18 17:09:56.000000,54,124,Yes
+250,2021-06-18 17:09:56.745437,2021-06-18 17:09:56.000000,55,124,[[REDACTED]]
+251,2021-06-20 07:13:00.152611,2021-06-20 07:13:00.000000,51,105,Basic skills in Python & C++
+252,2021-06-20 07:13:00.157452,2021-06-20 07:13:00.000000,52,105,Apply it in projects at work
+253,2021-06-20 07:13:00.159241,2021-06-20 07:13:00.000000,53,105,Yes
+254,2021-06-20 07:13:00.161315,2021-06-20 07:13:00.000000,54,105,Yes
+255,2021-06-23 00:52:00.635468,2021-06-23 00:52:00.000000,49,125,on
+256,2021-06-23 00:52:00.637862,2021-06-23 00:52:00.000000,50,125,Female 
+257,2021-06-23 00:52:00.639544,2021-06-23 00:52:00.000000,51,125,None 
+258,2021-06-23 00:52:00.647503,2021-06-23 00:52:00.000000,52,125,"Take it further, and perhaps work in the sector "
+259,2021-06-23 00:52:00.654593,2021-06-23 00:52:00.000000,53,125,Yes
+260,2021-06-23 00:52:00.656285,2021-06-23 00:52:00.000000,54,125,Yes
+261,2021-06-25 12:12:24.179132,2021-06-25 12:12:24.000000,50,127,Male
+262,2021-06-25 12:12:24.181868,2021-06-25 12:12:24.000000,51,127,I do not have any experience. I just hear about programming so this will help me to understand what it is all about and also start my journey into programming.
+263,2021-06-25 12:12:24.183711,2021-06-25 12:12:24.000000,52,127,I intend to study for a PhD in the near future and some do require a basic understanding of programming so am sure this will expose me to the right basics.
+264,2021-06-25 12:12:24.185418,2021-06-25 12:12:24.000000,53,127,Yes
+265,2021-06-25 12:12:24.187083,2021-06-25 12:12:24.000000,54,127,Yes
+266,2021-06-25 12:12:24.188658,2021-06-25 12:12:24.000000,55,127,[[REDACTED]]
+267,2021-06-25 15:13:34.028078,2021-06-25 15:13:34.000000,50,128,Finance & Admin executive 2020 graduate 
+268,2021-06-25 15:13:34.030617,2021-06-25 15:13:34.000000,51,128,Zero programming experience! 
+269,2021-06-25 15:13:34.032204,2021-06-25 15:13:34.000000,52,128,Interested in Coding and programming. Looking forward to learning more and to get more insight into it. Always learning! 
+270,2021-06-25 15:13:34.033705,2021-06-25 15:13:34.000000,53,128,Yes
+271,2021-06-25 15:13:34.035217,2021-06-25 15:13:34.000000,54,128,Yes
+272,2021-06-25 15:13:34.036641,2021-06-25 15:13:34.000000,55,128,[[REDACTED]]
+273,2021-07-13 11:05:07.511824,2021-07-13 11:05:07.000000,56,131,Bromsggrove
+274,2021-07-13 11:05:07.514858,2021-07-13 11:05:07.000000,58,131,He/She
+275,2021-07-13 11:05:07.517215,2021-07-13 11:05:07.000000,59,131,"Very limited Python, Objective C and know the basics of HTML and CSS"
+276,2021-07-13 11:05:07.519558,2021-07-13 11:05:07.000000,60,131,Spent an hour or two on codecademy
+277,2021-07-13 11:05:07.521862,2021-07-13 11:05:07.000000,61,131,"Hopefully, guide me into a role dealing more with software"
+278,2021-07-13 11:05:07.523931,2021-07-13 11:05:07.000000,62,131,Yes
+279,2021-07-13 11:05:07.526106,2021-07-13 11:05:07.000000,63,131,Yes
+280,2021-07-13 11:05:07.528388,2021-07-13 11:05:07.000000,64,131,[[REDACTED]]
+281,2022-02-24 12:24:35.411264,2022-02-24 12:24:35.000000,65,1,18-25
+282,2022-02-24 12:24:35.417638,2022-02-24 12:24:35.000000,67,1,TEST to How do you identify yourself
+283,2022-02-24 12:24:35.419262,2022-02-24 12:24:35.000000,68,1,TEST to When do you finish your current level of study?
+284,2022-02-24 12:24:35.420826,2022-02-24 12:24:35.000000,69,1,TEST to Do you have any past experiences in programming?
+285,2022-02-24 12:24:35.422415,2022-02-24 12:24:35.000000,70,1,TEST to What do you plan to do with your skills upon completion of the course?
+286,2022-02-24 12:24:35.424065,2022-02-24 12:24:35.000000,71,1,Yes
+287,2022-02-24 12:24:35.426037,2022-02-24 12:24:35.000000,72,1,Yes
+288,2022-02-24 12:24:35.429771,2022-02-24 12:24:35.000000,73,1,TEST to What is your twitter/linkedIn handle? (We use this for course reminders)
+289,2022-02-24 12:24:35.431743,2022-02-24 12:24:35.000000,74,1,TEST to Have you been referred? If so what is your referrer's email or twitter
+299,2022-02-24 13:02:31.803297,2022-02-24 13:02:31.000000,65,1,18-25
+300,2022-02-24 13:02:31.809227,2022-02-24 13:02:31.000000,67,1,test
+301,2022-02-24 13:02:31.811799,2022-02-24 13:02:31.000000,68,1,test
+302,2022-02-24 13:02:31.814384,2022-02-24 13:02:31.000000,69,1,test
+303,2022-02-24 13:02:31.816267,2022-02-24 13:02:31.000000,70,1,test
+304,2022-02-24 13:02:31.818159,2022-02-24 13:02:31.000000,71,1,Yes
+305,2022-02-24 13:02:31.820600,2022-02-24 13:02:31.000000,72,1,Yes
+306,2022-02-24 13:02:31.823507,2022-02-24 13:02:31.000000,73,1,test
+307,2022-02-24 13:02:31.825986,2022-02-24 13:02:31.000000,74,1,test
