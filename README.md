@@ -3,7 +3,7 @@
 
 ## The client
 
-- [Daryl Cecile](https://github.com/daryl-cecile) (software developer at Capital One) and Rizwana Khan (https://www.rizwanakhan.com/) founded Project Function in 2018.
+- [Daryl Cecile](https://github.com/daryl-cecile) (software developer at Capital One) and [Rizwana Khan](https://www.rizwanakhan.com/) founded Project Function in 2018.
 - [Project Function](https://projectfunction.io/) has since 2018 taught over 95 sessions in Web Development, Design with Unity and general coding.
 - User friendly to beginner and experienced tech learners. 
 - Courses free of charge.
