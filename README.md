@@ -1,4 +1,4 @@
-# [Northeastern university](https://www.northeastern.edu/) - Career Accelerator in Data Science
+# [Northeastern university](https://www.northeastern.edu/) - Career Accelerator in Data Analytics
 # Final project repository
 
 ## The client
@@ -18,7 +18,7 @@ Project Function's participation appears to be lacking from online students. Is 
 
 ## Tech Stack
 
-- Google Sheets (the incoming data was obtained in 
+- Google Sheets (the incoming data was obtained in `.xlsx` format)
 - [Pandas](https://pandas.pydata.org/pandas-docs/stable/)
 - [Seaborn](https://seaborn.pydata.org/)
 - [Plotly](https://plotly.com/)
