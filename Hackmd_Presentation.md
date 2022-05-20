@@ -84,7 +84,7 @@ by Jacob Tessers
 
 ## The Client
 
-- Daryl Cecile (Founder) is a professional software developer.
+-  Daryl Cecile (software developer at Capital One) founded Project Function.
 - [Project Function](https://projectfunction.io/) has since 2018 taught over 76 courses in Web Development, Design with Unity and general coding.
 - User friendly to beginner and experienced tech learners. 
 - Courses free of charge.
