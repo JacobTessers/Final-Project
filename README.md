@@ -1,6 +1,11 @@
 
 ## Final Project
-The data pulled for this project was provided by Daryl at Project Function, a learning platform with the goal of providing free courses on Web Developement, Web Design, and User experience to any and all interested people. Their website can be viewed [here](https://projectfunction.io/en-US/about).
+
+- Daryl Cecile (software developer at Capital One) founded Project Function.
+- [Project Function](https://projectfunction.io/) has since 2018 taught over 76 courses in Web Development, Design with Unity and general coding.
+- User friendly to beginner and experienced tech learners. 
+- Courses free of charge.
+- Large focus on helping minorities succeed in tech.
 
 ## Project Rationale
 Project Function's participation appears to be lacking from online students. Is there a correlation between online and in-person learning?
@@ -12,9 +17,13 @@ Project Function's participation appears to be lacking from online students. Is 
 - [Matplotlib](https://matplotlib.org/)
 
 ## Processes Used
-
+-Pulling .csv files and pushing to Deepnote.
+-Data cleaning
+-Data Exploration
+-Data Visualization
 
 ## Coding Standards
+-Python
 
 
 ## Project Goals
