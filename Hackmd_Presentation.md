@@ -58,7 +58,7 @@ by Jacob Tessers
 
 - Originally from Southern California, I have lived in Utah for the past 17 years. 
 - I am married with no children.
-- I would love to live somewhere like North Carolina one day.
+- Currently working full-time while finishing this program.
 - I am an avid gamer, though I also enjoy movies and learning.
 - I hope to establish myself as a data analyst and further my learning to become a data scientist at some point down the line.
 
@@ -84,10 +84,11 @@ by Jacob Tessers
 
 ## The Client
 
--  Daryl Cecile (software developer at Capital One) founded Project Function.
-- [Project Function](https://projectfunction.io/) has since 2018 taught over 76 courses in Web Development, Design with Unity and general coding.
+-  Daryl Cecile (software developer at Capital One) is one of the founders of Project Function.
+-  Rizwana Khan is the other founder, but I didn't meet her.
+- [Project Function](https://projectfunction.io/) has since 2018 taught over 95 sessions in Web Development, Design with Unity and general coding.
 - User friendly to beginner and experienced tech learners. 
-- Courses free of charge.
+- Sessions are free of charge.
 - Large focus on helping minorities succeed in tech.
 
 ---
@@ -132,6 +133,7 @@ The data provided includes 89 users with hundreds of individual records for thes
 
 ### Tech Stack
 
+- Google Sheets - Data came in Excel format
 - [Pandas](https://pandas.pydata.org/pandas-docs/stable/)
 - [Seaborn](https://seaborn.pydata.org/)
 - [Plotly](https://plotly.com/)
@@ -151,6 +153,7 @@ The data provided includes 89 users with hundreds of individual records for thes
 ### Data Cleaning
 
 - Repetivtive steps
+- Had to use duplicated and drop_duplicates methods a lot
 
 <iframe title="Embedded cell output" src="https://embed.deepnote.com/229baaf3-d665-413f-81cc-b5ca6160d049/6dee76f1-37d5-4e2e-95f0-b53463d43763/2ddf998538d746deb38192a05eda0a78?height=371" height="371" width="800"/>
 
@@ -173,6 +176,7 @@ activity_log['activity'].unique()
 ```
 
 ---
+
 ![](https://i.imgur.com/l3nhFcp.png)
 
 ---
